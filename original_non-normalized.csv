@@ -1,0 +1,1703 @@
+language,country,status
+Albanian,Albania,official and national
+Albanian,Greece,minority
+Albanian,Italy,protected minority
+Albanian,Kosovo,official
+Albanian,North Macedonia,official
+Albanian,Montenegro,official in some municipalities
+Albanian,Romania,recognized minority
+Albanian,Serbia,language of provincial identity in some municipalities
+Albanian,Slovenia,recognized minority
+Albanian,Turkey,minority
+Armenian,Armenia,official
+Armenian,Azerbaijan,minority
+Armenian,Cyprus,minority
+Armenian,Georgia,minority
+Armenian,Hungary,minority
+Armenian,Iran,minority
+Armenian,Iraq,recognized minority
+Armenian,Israel,minority
+Armenian,Jordan,minority
+Armenian,Lebanon,language of national identity
+Armenian,Poland,recognized minority
+Armenian,Romania,recognized minority
+Armenian,Syria,minority
+Armenian,Turkey,minority
+Armenian,Ukraine,recognized minority
+Latgalian,Latvia,"unofficial, spoken in Latgale"
+Latgalian,Russia,significant minority in Siberia
+Latvian,Latvia,official
+Lithuanian,Latvia,minority
+Lithuanian,Lithuania,official
+Lithuanian,Poland,"minority, majority in the city of Puńsk"
+Breton,France,"minority language in  Brittany, but unofficial"
+Cornish,United Kingdom,"minority language in  Cornwall, but unofficial"
+Irish,Ireland,"minority, co-official with English"
+Irish,United Kingdom,"significant minority in  England, as well as minority in the entire country 
+and official in Northern Ireland"
+Irish,United States,"significant minority, mainly in Chicago, New York and Massachusetts."
+Irish,Canada,"significant minority, especially in Saint John and Miramichi, New Brunswick, 
+as well as in  Prince Edward Island, and  Newfoundland and Labrador; also, 
+a big community of Irish-speaking expats exists in both Quebec (see Irish 
+Quebecers) and Ontario (see Permanent North American Gaeltacht)."
+Irish,Australia,significant minority
+Irish,New Zealand,significant minority
+Manx,Isle of Man,"minority, very limited official use"
+Scottish Gaelic,Canada,"significant minority, official in  Nova Scotia"
+Scottish Gaelic,United Kingdom,official in  Scotland
+Scottish Gaelic,United States,significant minority
+Welsh,Argentina,significant minority in  Chubut
+Welsh,United Kingdom,"spoken by about 20% of the population in  Wales and co-official with 
+English there"
+Welsh,United States,minority
+Afrikaans,South Africa,co-official with 10 other languages
+Afrikaans,Namibia,recognised minority; unofficial lingua franca
+Afrikaans,United States,minority
+Afrikaans,Netherlands,minority
+Afrikaans,United Kingdom,minority
+Afrikaans,Germany,minority
+Afrikaans,Belgium,minority
+Afrikaans,Australia,minority
+Afrikaans,Argentina,minority
+Alsatian,France,regional language in  Alsace
+Danish,Denmark,official
+Danish,Germany,"in  Schleswig-Holstein, official recognised minority language"
+Danish,Faroe Islands,co-official alongside Faroese
+Danish,Greenland,minority
+Danish,Iceland,minority
+Faroese,Faroe Islands,co-official with Danish
+Faroese,Denmark,unofficial
+Frisian,Denmark,minority
+Frisian,Germany,official recognised minority language
+Frisian,Netherlands,minority language in  Friesland
+Icelandic,Iceland,official
+Icelandic,Denmark,minority
+"Low German
+(Low Saxon)",Germany,"Niederdeutsch or more usual Plattdeutsch, recognized as regional 
+language"
+"Low German
+(Low Saxon)",Netherlands,"Nederduits, recognized as regional language"
+Luxembourgish,Luxembourg,co-official with French and German
+Luxembourgish,Belgium,minority language in the Belgian Province of Luxembourg
+Luxembourgish,Germany,"minority language in the German Regierungsbezirk Trier (""moselfränkisch"")"
+Norwegian,Norway,"official, including Svalbard and Jan Mayen"
+Scots,Scotland,significant minority in Scotland
+Scots,Ireland,minority in Ireland
+Scots,United States,significant minority
+Scots,Canada,"significant minority, especially in Nova Scotia"
+Swedish,Sweden,official
+Swedish,Finland,co-official with Finnish.
+Swedish,Åland Islands,official
+Swedish,Estonia,minority
+Dutch,Netherlands,official
+Dutch,Belgium,co-official with French and German
+Dutch,France,in French Flanders
+Dutch,Germany,in Low Rhine Country
+Dutch,South Africa,"spoken as minority, often used together
+with daughter language Afrikaans"
+Dutch,Namibia,
+Dutch,Indonesia,historical language
+Dutch,New Zealand,Minority
+Dutch,Aruba,co-official with Papiamento
+Dutch,Curaçao,co-official with English and Papiamento
+Dutch,Sint Maarten,co-official with English
+Dutch,United States,spoken in minority primarily in Michigan and Indiana
+Dutch,Canada,Minority
+Dutch,Suriname,official
+Dutch,French Guiana,"unofficial, spoken in Saint-Laurent-du-Maroni"
+English,Botswana,co-official with Tswana
+English,Cameroon,co-official with French
+English,Egypt,significant minority
+English,Eswatini (Swaziland),co-official with Swati
+English,Gambia,official
+English,Ghana,official
+English,Kenya,co-official with Swahili
+English,Lesotho,co-official with Sesotho
+English,Liberia,official
+English,Malawi,official
+English,Mauritius,"national language along with French, and other vernacular languages"
+English,Namibia,official
+English,Nigeria,official
+English,Rwanda,co-official with Kinyarwanda and French
+English,Seychelles,co-official with French and Seychellois Creole
+English,Sierra Leone,official
+English,South Africa,"co-official with 10 other languages: unofficially regarded as the 'main' 
+language"
+English,South Sudan,official
+English,Uganda,co-official with Swahili
+English,Zambia,official
+English,Zimbabwe,official
+English,Bahrain,unofficial
+English,India,co-official with 21 other languages
+English,Lebanon,significant minority
+English,Pakistan,co-official with Urdu
+English,Philippines,"co-official with Filipino, and with regional languages as auxiliary 
+official languages"
+English,Singapore,"co-official with Tamil, Mandarin, and Malay"
+English,Bangladesh,de facto co-official with Bengali
+English,Sri Lanka,de facto co-official with Tamil and Sinhala
+English,Malaysia,"co-official with Tamil, Mandarin, and Malay"
+English,Brunei,"co-official with Mandarin, and Malay"
+English,Ireland,"co-official with Irish, see Hiberno-English"
+English,Malta,co-official with Maltese
+English,United Kingdom,"co-official with Welsh, see British English"
+English,Antigua and Barbuda,official
+English,Bahamas,official
+English,Barbados,official
+English,Belize,official
+English,Canada,"co-official with French, see Canadian English"
+English,Dominica,official
+English,Grenada,official
+English,Jamaica,"official, see Jamaican English"
+English,Saint Kitts and Nevis,official
+English,Saint Lucia,official
+English,Saint Vincent and the Grenadines,official
+English,Trinidad and Tobago,official
+English,United States,"de facto, see American English"
+English,Australia,"de facto, see Australian English"
+English,Fiji,co-official with Fijian and Hindustani
+English,Kiribati,co-official with Kiribati
+English,Marshall Islands,co-official with Marshallese
+English,FS. Micronesia,
+English,Nauru,de facto
+English,New Zealand,"co-official with Māori and New Zealand Sign Language; see also New Zealand 
+English"
+English,Palau,co-official with Palauan
+English,Papua New Guinea,co-official with Tok Pisin and Hiri Motu
+English,Solomon Islands,official
+English,Vanuatu,co-official with Bislama and French
+English,Guyana,official
+English,Colombia,official in San Andrés and Providence Island
+English,American Samoa,co-official with Samoan
+English,British Indian Ocean Territory,de facto
+English,Anguilla,official
+English,Bermuda,official
+English,British Virgin Islands,official
+English,Cayman Islands,official
+English,Christmas Island,official
+English,Cook Islands,co-official with Cook Islands Māori
+English,Falkland Islands,official
+English,Gibraltar,official
+English,Guam,co-official with Chamorro
+English,Guernsey,official
+English,Hong Kong,co-official with Cantonese
+English,Isle of Man,official
+English,Jersey,official
+English,Montserrat,official
+English,Norfolk Island,co-official with Norfuk
+English,Northern Mariana Islands,co-official with Chamorro and Carolinian
+English,Pitcairn Islands,co-official with Pitkern
+English,Puerto Rico,co-official with Spanish
+English,"Saint Helena, Ascension and Tristan da Cunha",official
+English,South Georgia and the South Sandwich Islands,official
+English,Turks and Caicos Islands,official
+English,U.S. Virgin Islands,official
+German,Austria,official
+German,Germany,official
+German,Liechtenstein,official
+German,Switzerland,co-official with French and Italian
+German,Belgium,co-official with French and Flemish
+German,Hungary,co-official with Hungarian in the city of Sopron
+German,Italy,co-official with Italian in South Tyrol
+German,Lithuania,minority
+German,Luxembourg,co-official with French and Luxembourgish
+German,Poland,co-official as auxiliary language in the Opole Voivodeship
+German,Vatican City,"official with other languages, language of the Swiss Guard"
+German,France,minority in Alsace and Lorraine
+German,Czech Republic,minority
+German,Denmark,minority
+German,Romania,minority
+German,Russia,minority
+German,Egypt,minority
+German,Namibia,co-official as auxiliary language
+German,Kazakhstan,minority
+German,Lebanon,minority
+German,Canada,minority
+German,Costa Rica,minority
+German,Guatemala,minority
+German,Mexico,minority
+German,United States,minority
+German,Argentina,minority
+German,Brazil,"official in some municipalities, see Brazilian German"
+German,Chile,minority
+German,Colombia,minority
+German,Paraguay,minority
+German,Peru,minority
+German,Venezuela,minority (see: Colonia Tovar dialect)
+Greek,Greece,official
+Greek,Cyprus,co-official with Turkish
+Greek,Albania,"significant minority, widely spoken
+and co-official with Albanian in Himara,
+Dropull, Finiq and Derviçan regions"
+Greek,Lebanon,minority
+Greek,North Macedonia,minority
+Greek,Russia,minority
+Greek,Ukraine,minority
+Greek,Turkey,minority
+Greek,Egypt,minority
+Greek,Italy,minority
+Greek,Armenia,minority
+Greek,Romania,minority
+Greek,Hungary,minority
+Greek,Syria,minority
+Greek,United States,minority
+Greek,Australia,minority
+Balochi,Afghanistan,minority
+Balochi,Bahrain,minority
+Balochi,Iran,significant minority in Balochistan
+Balochi,Oman,minority
+Balochi,Pakistan,Majority in Balochistan
+Balochi,United Arab Emirates,minority
+Persian,Afghanistan,"co-official as Dari, with Pashto"
+Persian,Bahrain,minority
+Persian,Germany,minority
+Persian,Iran,official
+Persian,Iraq,significant minority
+Persian,Kazakhstan,"minority, as Tajik"
+Persian,Kyrgyzstan,"minority, as Tajik"
+Persian,Pakistan,"minority, as Dari and Hazaragi"
+Persian,Tajikistan,"official, as Tajik"
+Persian,Russia,minority
+Persian,Qatar,minority
+Persian,United Arab Emirates,minority
+Persian,United States,minority
+Persian,Uzbekistan,"minority, as Tajik"
+Ossetic,Russia,majority in North Ossetia-Alania
+Ossetic,South Ossetia,majority
+Ossetic,Georgia,minority
+Caucasian Tat,Russia,minority in Dagestan
+Caucasian Tat,Azerbaijan,minority
+Tajik,Kazakhstan,"minority, as Tajik"
+Tajik,Kyrgyzstan,"minority, as Tajik"
+Tajik,Pakistan,minority
+Tajik,Tajikistan,"official, as Tajik"
+Tajik,Russia,minority
+Kurdish,Armenia,recognized minority
+Kurdish,Iran,regional
+Kurdish,Iraq,co-official with Arabic
+Kurdish,Syria,significant minority
+Kurdish,Turkey,significant minority
+Gilan,Iran,"unofficial, in Gilan, Māzandarān and Qhazvin Province"
+Talysh,Azerbaijan,minority
+Talysh,Iran,minority
+Pashto,Afghanistan,co-official with Dari
+Pashto,Pakistan,majority in Khyber Pakhtunkhwa and FATA
+Pashto,United Arab Emirates,minority
+Bengali,Bangladesh,official
+Bengali,India,"official, along with 21 others; primarily spoken in the Indian states of West 
+Bengal, Tripura, Assam, with significant minority in Bihar, Jharkhand and 
+Orissa"
+Bengali,Saudi Arabia,significant minority
+Bengali,United Arab Emirates,significant minority
+Bengali,Qatar,minority
+Bengali,Kuwait,minority
+Bengali,Malaysia,minority
+Bengali,Singapore,minority
+Bengali,Pakistan,"minority. Mostly used in Karachi, where it holds the status as that of a 
+recognized secondary language"
+Bengali,Italy,minority
+Bengali,United Kingdom,significant minority
+Bengali,United States,minority[a]
+Bengali,Canada,minority
+Bengali,Australia,minority
+Domari,Algeria,minority
+Domari,Egypt,minority
+Domari,Morocco,minority
+Domari,Sudan,minority
+Domari,Tunisia,minority
+Domari,India,minority
+Domari,Iran,significant minority
+Domari,Pakistan,minority
+Domari,Libya,minority
+Domari,Syria,minority
+Domari,Turkey,minority
+Domari,Israel,minority
+Domari,Afghanistan,minority
+Domari,Bangladesh,minority
+Domari,Jordan,minority
+Domari,Iraq,minority
+Domari,Lebanon,minority
+Domari,Uzbekistan,minority
+Domari,Armenia,minority
+Domari,Azerbaijan,minority
+Domari,Georgia,minority
+Domari,Turkmenistan,minority
+Domari,Kazakhstan,minority
+Domari,Tajikistan,minority
+Domari,Kuwait,minority
+Domari,Kyrgyzstan,minority
+Domari,Russia,minority
+Romani,Bangladesh,minority
+Romani,India,minority
+Romani,Pakistan,minority
+Romani,Iran,minority
+Romani,Afghanistan,minority
+Romani,Uzbekistan,minority
+Romani,Kazakhstan,minority
+Romani,Turkmenistan,minority
+Romani,Tajikistan,minority
+Romani,Kyrgyzstan,minority
+Romani,Armenia,minority
+Romani,Albania,minority
+Romani,Austria,minority
+Romani,Belarus,minority
+Romani,Belgium,minority
+Romani,Bosnia and Herzegovina,minority
+Romani,Bulgaria,significant minority
+Romani,Croatia,minority
+Romani,Cyprus,minority
+Romani,Czech Republic,minority
+Romani,Denmark,minority
+Romani,Estonia,minority
+Romani,Finland,officially recognised minority language
+Romani,France,minority
+Romani,Germany,officially recognised minority language
+Romani,Greece,minority
+Romani,Hungary,"significant minority, officially recognised minority language"
+Romani,Ireland,minority
+Romani,Italy,minority
+Romani,Kosovo,officially recognized minority language
+Romani,Latvia,minority
+Romani,Lithuania,minority
+Romani,Macedonia,official in Šuto Orizari Municipality
+Romani,Moldova,minority
+Romani,Montenegro,minority
+Romani,Netherlands,minority
+Romani,Norway,officially recognised minority language
+Romani,Poland,minority
+Romani,Portugal,minority
+Romani,Romania,co-official in 79 rural communes
+Romani,Russia,officially recognised minority language
+Romani,Serbia,officially recognised minority language
+Romani,Slovakia,minority
+Romani,Slovenia,officially recognised minority language
+Romani,Spain,minority
+Romani,Sweden,officially recognised minority language
+Romani,Switzerland,minority
+Romani,Turkey,minority
+Romani,Ukraine,minority
+Romani,United Kingdom,minority
+Romani,United States,minority
+Romani,Canada,minority
+Hindi,India,"one of the two union languages of India alongside English, official along 
+with 21 others; official in the Indian states of Bihar, Chhattisgarh, 
+Haryana, Himachal Pradesh, Jharkhand, Madhya Pradesh, Rajasthan, Uttar 
+Pradesh, and Uttarakhand."
+Hindi,Bangladesh,more than half of the population can understand and speak
+Hindi,Indonesia,"minority, 90,000"
+Hindi,Malaysia,"minority, 58,000"
+Hindi,Nepal,significant minority
+Hindi,Pakistan,more than half of the population can understand and speak
+Hindi,Yemen,minority
+Hindi,United Arab Emirates,minority
+Hindi,Saudi Arabia,minority
+Hindi,Fiji,Fiji Hindi is an official language
+Hindi,Australia,minority
+Hindi,New Zealand,"minority, 20,000 speakers"
+Hindi,South Africa,"significant minority, 436,000 speakers"
+Hindi,Mauritius,"minority, 37,000 speakers"
+Hindi,Tanzania,"minority, 66,000 speakers"
+Hindi,Uganda,"minority, 5,300 speakers"
+Hindi,United Kingdom,minority
+Hindi,Canada,"minority, 268,000 speakers "
+Hindi,United States,"minority, 650,000 speakers"
+Hindi,Suriname,minority
+Hindi,Guyana,minority
+Hindi,Trinidad and Tobago,minority
+Gujarati,India,"official in Gujarat, Daman and Diu and Dadra and Nagar Haveli"
+Gujarati,Pakistan,significant minority
+Gujarati,Kenya,minority
+Gujarati,Mauritius,minority
+Gujarati,Tanzania,minority
+Gujarati,Uganda,minority
+Gujarati,Zimbabwe,minority
+Gujarati,South Africa,minority
+Gujarati,Canada,minority
+Gujarati,United States,minority
+Gujarati,United Kingdom,significant minority
+Gujarati,Australia,minority
+Angika,India,"majority in Anga, significant minority in the rest of the country"
+Angika,Nepal,"minority language, in Terai region"
+Assamese,Bhutan,minority
+Assamese,India,official language along with 21 others
+Assamese,United Kingdom,minority
+Assamese,United States,minority
+Awadhi,Bhutan,minority
+Awadhi,Guyana,minority
+Awadhi,Fiji,minority
+Awadhi,India,"majority in Uttar Pradesh, minority in Bihar, Madhya Pradesh, and Delhi"
+Awadhi,Nepal,minority
+Awadhi,Trinidad and Tobago,minority
+Awadhi,South Africa,minority
+Awadhi,Suriname,minority
+Awadhi,United States,minority
+Bhili,India,minority
+Bhojpuri,Fiji,minority
+Bhojpuri,Guyana,minority
+Bhojpuri,India,"in Bihar, Jharkhand, and Uttar Pradesh"
+Bhojpuri,Mauritius,minority
+Bhojpuri,Nepal,minority
+Bhojpuri,United Kingdom,minority
+Bhojpuri,United States,minority
+Bhojpuri,Suriname,minority
+Bhojpuri,Trinidad and Tobago,minority
+Bhojpuri,Seychelles,minority
+Bhojpuri,South Africa,minority
+Bhojpuri,Australia,minority
+Bishnupriya Manipuri,Bangladesh,minority
+Bishnupriya Manipuri,India,"minority, mostly in Manipur, Assam and Tripura"
+Bishnupriya Manipuri,Myanmar,minority
+Chakma,Bangladesh,"minority, mostly in Chittagong Division"
+Chakma,India,"minority, mostly in Tripura, Mizoram, Arunachal Pradesh"
+Chhattisgarhi,India,"majority in Chhattisgarh, minority in Madhya Pradesh, Orissa, and Bihar"
+Chittagonian,Bangladesh,"significant minority, major language of Chittagong Division of Bangladesh"
+Chittagonian,Myanmar,"minority, mostly in Arakan and Yangon"
+Chittagonian,Oman,minority
+Chittagonian,Saudi Arabia,minority
+Chittagonian,United Arab Emirates,minority
+Chittagonian,Qatar,minority
+Chittagonian,Kuwait,minority
+Chittagonian,Pakistan,"minority, mostly in Karachi"
+Chittagonian,United Kingdom,minority
+Chittagonian,United States,minority
+Dhivehi,India,in Lakshadweep
+Dhivehi,Maldives,official
+Dogri,Pakistan,"in Punjab, and Azad Kashmir"
+Dogri,India,"in Jammu and Kashmir(India), Punjab, and Himachal Pradesh"
+Hajong,India,"minority, mostly in Assam, Meghalaya, Arunachal Pradesh and West Bengal"
+Hajong,Bangladesh,minority
+Halbi,India,"in Madhya Pradesh, Chhattisgarh, and Andhra Pradesh"
+Kalasha-ala,Afghanistan,minority
+Kalasha-mun,Pakistan,minority
+Kashmiri,India,"official, spoken in Delhi, Jammu and Kashmir(India), Punjab, and Uttar 
+Pradesh"
+Kashmiri,Pakistan,spoken in POK
+Kashmiri,United Kingdom,"minority, mostly by immigrants from Kashmir"
+Khandeshi,India,"minority, spoken in Maharashtra, Gujarat"
+Khowar,Pakistan,"majority in Chitral, minority in Gilgit"
+Kumaoni(Doteli),India,"majority in Uttarakhand, minority in Assam"
+Kumaoni(Doteli),Nepal,significant majority in Sudurpashchim Pradesh
+Lomavren,Armenia,minority
+Lomavren,Azerbaijan,minority
+Lomavren,Bulgaria,minority
+Lomavren,Georgia,minority
+Lomavren,Iran,minority
+Lomavren,Russia,minority
+Lomavren,Syria,minority
+Magadhi,India,official in Bihar
+Maithili,India,official in Bihar
+Maithili,Nepal,significant minority in Terai
+Mal Paharia,India,"minority, mostly in Jharkhand and West Bengal"
+Mal Paharia,Bangladesh,minority
+Marathi,India,"official along with 21 others, widely spoken in Maharashtra, Dadra and 
+Nagar Haveli, Daman and Diu."
+Marathi,Pakistan,minority in Sindh
+Marathi,Israel,minority
+Marathi,Mauritius,minority
+Marathi,Singapore,minority
+Marathi,United States,Significant minority
+Marathi,United Kingdom,Significant minority
+Marathi,Australia,Significant minority
+Marathi,New Zealand,Significant minority
+Marathi,South Africa,Significant minority
+Marathi,United Arab Emirates,Significant minority
+Marathi,Bahrain,Significant minority
+Marwari,India,"primarily in Rajasthan and Gujarat and it is also spoken in west Bengal, 
+Bihar, Jharkhand, Eastern U.P., Assam, and northeastern states"
+Marwari,Pakistan,minority
+Nepali,Bhutan,unofficial
+Nepali,Hong Kong,unofficial
+Nepali,India,"official in Sikkim, regional language in West Bengal"
+Nepali,Myanmar,unofficial
+Nepali,Nepal,official
+Nepali,United Kingdom,unofficial
+Oriya,Bangladesh,minority
+Oriya,India,official in Orissa
+Punjabi,India,"official with others, in Punjab"
+Punjabi,Pakistan,majority in Punjab
+Punjabi,United Kingdom,significant minority
+Punjabi,Canada,minority
+Punjabi,United States,minority
+Rajasthani,India,"official along with others, in Rajasthan"
+Rajasthani,Pakistan,minority
+Rajbanshi,India,minority
+Rajbanshi,Bangladesh,minority
+Rajbanshi,Nepal,minority
+Rohingya,Bangladesh,"minority, mostly in Chittagong Division, Bangladesh"
+Rohingya,India,minority
+Rohingya,Malaysia,minority
+Rohingya,Myanmar,"minority, mostly in Arakan, Myanmar"
+Rohingya,Oman,minority
+Rohingya,Pakistan,"minority, mostly in Karachi"
+Rohingya,Saudi Arabia,minority
+Rohingya,Thailand,minority
+Rohingya,United Arab Emirates,minority
+Sindhi,Hong Kong,minority
+Sindhi,India,official with others
+Sindhi,Oman,minority
+Sindhi,Pakistan,majority in Sindh
+Sindhi,Philippines,minority[citation needed]
+Sindhi,Singapore,minority
+Sindhi,United Arab Emirates,minority
+Sindhi,United Kingdom,minority
+Sindhi,United States,minority
+Sinhala,Sri Lanka,"official; known natively as Sinhala is the native language of the Sinhalese 
+people, who make up the largest ethnic group in Sri Lanka and also spoken 
+as a second language by other ethnic groups in Sri Lanka."
+Sylheti,Bangladesh,major language of Sylhet Division of Bangladesh
+Sylheti,India,"significant minority in the state of Assam, especially in Barak Valley"
+Sylheti,Taiwan,minority
+Sylheti,United Kingdom,significant minority
+Sylheti,United States,minority
+Sylheti,United Arab Emirates,minority
+Tanchangya,Bangladesh,"minority; mainly in Chittagong Division, related to Chakma, Chittagonian, 
+Pali, Prakrit, Sanskrit Rohingya and Bengali language"
+Tanchangya,India,"minority; mainly in Indian states of Assam, Tripura and Mizoram"
+Tanchangya,Myanmar,"minority; mainly in Rakhine State, and few of them in Chin State and Yangon 
+Division of Myanmar"
+Urdu,Bahrain,minority
+Urdu,Bangladesh,significant minority
+Urdu,Fiji,co-official as Hindustani with English and Fijian
+Urdu,India,"co-official with 21 others; understood and spoken in the Indian states of 
+Bihar, Chhattisgarh, Haryana, Himachal Pradesh, Jharkhand, Madhya Pradesh, 
+Rajasthan, Uttar Pradesh, and Uttarakhand."
+Urdu,Nepal,minority
+Urdu,Mauritius,minority
+Urdu,Oman,minority
+Urdu,Pakistan,co-official with English
+Urdu,Qatar,minority
+Urdu,Saudi Arabia,minority
+Urdu,South Africa,minority
+Urdu,United Arab Emirates,minority
+Urdu,United Kingdom,minority
+Urdu,United States,minority
+French,Andorra,"spoken, not official"
+French,Belgium,co-official with Dutch and German
+French,France,official
+French,Italy,co-official in the  Aosta Valley
+French,Luxembourg,co-official with Luxembourgish and German
+French,Monaco,official
+French,Switzerland,"co-official with German, Italian, and Romansh"
+French,Algeria,"unofficial, but widely used"
+French,Benin,official
+French,Burkina Faso,official
+French,Burundi,co-official with Kirundi
+French,Cameroon,co-official with English
+French,Central African Republic,co-official with Sango
+French,Chad,co-official with Arabic
+French,Comoros,co-official with Arabic and Comorian
+French,Dem. Rep. Congo,official
+French,Congo,official
+French,Ivory Coast,official
+French,Djibouti,co-official with Arabic
+French,Equatorial Guinea,co-official with Spanish and Portuguese
+French,Gabon,official
+French,Guinea,official
+French,Madagascar,co-official with Malagasy
+French,Mali,official
+French,Mauritania,de facto
+French,Mauritius,de facto
+French,Morocco,de facto
+French,Niger,official
+French,Réunion,official
+French,Rwanda,co-official with English and Kinyarwanda
+French,Senegal,official; Wolof most widely spoken
+French,Seychelles,co-official with English and Seychellois Creole
+French,Togo,official
+French,Tunisia,"unofficial, but widely used"
+French,Cambodia,minority
+French,Vietnam,minority
+French,Laos,administrative language
+French,Lebanon,"unofficial, but spoken by the majority"
+French,India,"in Puducherry, co-official with Tamil, Telugu, and Malayalam"
+French,Jordan,minority
+French,Canada,"co-official with English; majority in Quebec, minority in New Brunswick, 
+Ontario, Manitoba, Prince Edward Island"
+French,Guadeloupe,official
+French,Haiti,co-official with Haitian Creole
+French,Mexico,minority
+French,Martinique,official
+French,Saint Barthélemy,official
+French,Saint Martin,official
+French,Saint Pierre and Miquelon,official
+French,United States,"minority language, especially in Louisiana, Maine, Vermont, and New 
+Hampshire"
+French,French Polynesia,official
+French,New Caledonia,official
+French,Vanuatu,co-official with English and Bislama
+French,Wallis and Futuna,official
+French,Argentina,minority
+French,Brazil,"minority, significantly in RJ/ES and other coastal states; see French, 
+Belgian and Swiss Brazilians"
+French,Chile,minority
+French,French Guiana,official
+French,Uruguay,minority
+Italian,Albania,"unofficial, but widely spoken; some 70% of the population"
+Italian,Belgium,minority
+Italian,Croatia,official status in Istria
+Italian,France,minority language in  Corsica
+Italian,Germany,minority
+Italian,Greece,minority
+Italian,Italy,official
+Italian,Luxembourg,minority
+Italian,Malta,"unofficial, but widely spoken; some 66% of the population"
+Italian,Monaco,"unofficial, but widely spoken"
+Italian,San Marino,official
+Italian,Slovenia,"co-official in Koper, Izola and Piran"
+Italian,Switzerland,"co-official with French, German, and Romansh"
+Italian,Vatican City,official
+Italian,Eritrea,minority
+Italian,Libya,minority
+Italian,Somalia,minority
+Italian,Argentina,minority
+Italian,Brazil,"co-official in some municipalities, see Talian dialect"
+Italian,Canada,minority
+Italian,Chile,minority
+Italian,Mexico,minority
+Italian,Peru,minority
+Italian,United States,minority
+Italian,Uruguay,minority
+Italian,Venezuela,minority
+Italian,Australia,minority
+Portugese,Portugal,official
+Portugese,Spain,minority in Olivenza
+Portugese,France,minority
+Portugese,Luxembourg,minority
+Portugese,Switzerland,minority
+Portugese,Andorra,minority
+Portugese,Germany,minority
+Portugese,Angola,official
+Portugese,Cape Verde,official
+Portugese,Guinea-Bissau,official
+Portugese,Equatorial Guinea,co-official with Spanish and French
+Portugese,Mozambique,official
+Portugese,São Tomé and Príncipe,official
+Portugese,South Africa,minority
+Portugese,Namibia,minority
+Portugese,East Timor,co-official with Tetum
+Portugese,Japan,minority; see Brazilians in Japan
+Portugese,Macau,co-official with Cantonese
+Portugese,Malaysia,minority in Malacca; see Kristang language
+Portugese,India,minority in Goa State
+Portugese,United States,minority
+Portugese,Canada,minority
+Portugese,Brazil,"official, see Brazilian Portuguese"
+Portugese,Paraguay,minority
+Portugese,Uruguay,minority
+Portugese,Venezuela,minority
+Portugese,East Timor,co-official with Tetum
+Portugese,Australia,minority
+Spanish,Spain,official
+Spanish,Andorra,majority
+Spanish,France,minority
+Spanish,Germany,minority
+Spanish,Gibraltar,not official – majority
+Spanish,Italy,minority
+Spanish,United Kingdom,minority
+Spanish,Equatorial Guinea,co-official with French and Portuguese
+Spanish,Morocco,not official – minority
+Spanish,Western Sahara,co-official with Arabic
+Spanish,Ceuta,official
+Spanish,Melilla,official
+Spanish,Canary Islands,official
+Spanish,"Gabon, Cocobeach",official
+Spanish,Australia,minority
+Spanish,Japan,minority
+Spanish,New Zealand,minority
+Spanish,Philippines,"former official language, spoken by a minority; see Spanish language in the 
+Philippines"
+Spanish,Belize,"plurality, but unofficial"
+Spanish,Costa Rica,official
+Spanish,Cuba,official
+Spanish,Dominican Republic,official
+Spanish,El Salvador,official
+Spanish,Guatemala,official
+Spanish,Honduras,official
+Spanish,Mexico,"de facto, official"
+Spanish,Nicaragua,official
+Spanish,Panama,official
+Spanish,United States,"Co-official language in New Mexico and Puerto Rico. Spoken by a majority in 
+PR and a significant minority in NM. Minority elsewhere"
+Spanish,Argentina,de facto
+Spanish,Bolivia,co-official with Quechua and Aymara and another 35 languages
+Spanish,Brazil,minority
+Spanish,Chile,official
+Spanish,Colombia,official
+Spanish,Ecuador,official
+Spanish,Paraguay,co-official with Guaraní
+Spanish,Peru,official
+Spanish,Uruguay,official
+Spanish,Venezuela,official
+Spanish,Easter Island,co-official with Rapa Nui
+Catalan,Andorra,official
+Catalan,France,in Northern Catalonia
+Catalan,Italy,a significant minority in Alghero
+Catalan,Spain,"co-official with Spanish in  Catalonia, the  Balearic Islands, and  Valencian 
+Community. In El Carche (Murcia) and La Franja (Aragon) it is not official."
+Corsican,France,regional language in  Corsica
+Corsican,Italy,minority in  Sardinia
+Sardinian,Italy,co-official in  Sardinia
+Galician,Spain,co-official with Spanish in  Galicia
+Galician,Argentina,"minority, from immigration"
+Galician,Mexico,"minority, from immigration"
+Galician,Brazil,"minority, from immigration"
+Galician,Cuba,"minority, from immigration"
+Galician,France,"minority, from immigration"
+Galician,Germany,"minority, from immigration"
+Galician,Switzerland,"minority, from immigration"
+Galician,Uruguay,"minority, from immigration"
+Galician,Venezuela,"minority, from immigration"
+Jèrriais,Jersey,unofficial
+Jèrriais,Sark,unofficial
+Latin,Vatican City,"official, but not spoken"
+Mirandese,Portugal,"co-official with Portuguese in the municipalities of Miranda do Douro, 
+Mogadouro and Vimioso"
+Occitan,France,minority
+Occitan,Italy,recognised minority language
+Occitan,Spain,co-official with Catalan and Spanish in  Catalonia
+Romanian,Bulgaria,minority
+Romanian,Italy,minority
+Romanian,Moldova,official
+Romanian,Romania,official
+Romanian,Spain,minority
+Romanian,Serbia,co-official in province of Vojvodina with 5 other languages
+Romansh,Switzerland,"co-official with French, Italian, and German"
+Belarusian,Belarus,co-official with Russian
+Belarusian,Lithuania,minority
+Belarusian,Poland,minority
+Belarusian,Russia,minority
+Bosnian,Bosnia and Herzegovina,co-official with Croatian and Serbian
+Bosnian,Croatia,significant minority
+Bosnian,Macedonia,minority
+Bosnian,Montenegro,minority
+Bosnian,Serbia,"significant minority, official in Sandžak"
+Bosnian,Turkey,significant minority
+Bulgarian,Bulgaria,official
+Bulgarian,Greece,minority
+Bulgarian,Macedonia,minority
+Bulgarian,Moldova,minority
+Bulgarian,Romania,minority
+Bulgarian,Serbia,minority
+Bulgarian,Turkey,minority
+Bulgarian,Ukraine,minority
+Croatian,Austria,co-official with German and Hungarian in Burgenland
+Croatian,Bosnia and Herzegovina,co-official with Bosnian and Serbian
+Croatian,Croatia,official
+Croatian,Italy,co-official in Molise
+Croatian,Montenegro,minority
+Croatian,Romania,official in the municipalities of Carașova and Lupac
+Croatian,Serbia,co-official in province of Vojvodina with 5 other languages
+Czech,Austria,minority
+Czech,Croatia,minority
+Czech,Czech Republic,official
+Czech,Germany,minority
+Czech,Slovakia,minority
+Kashubian,Poland,official in Pomerania
+Macedonian,Albania,"minority, official in Pustec Municipality"
+Macedonian,Macedonia,official
+Macedonian,Greece,minority
+Macedonian,Bulgaria,minority
+Macedonian,Serbia,"minority, official in two municipalities"
+Macedonian,Kosovo,minority
+Macedonian,Romania,minority
+Montenegrin,Albania,minority
+Montenegrin,Croatia,minority
+Montenegrin,Montenegro,official
+Montenegrin,Serbia,"minority, official in some municipalities"
+Montenegrin,Kosovo,minority
+Montenegrin,Macedonia,minority
+Polish,Belarus,significant minority
+Polish,Lithuania,significant minority
+Polish,Poland,official
+Polish,Ukraine,significant minority
+Polish,Brazil,minority; see Polish Brazilian
+Polish,Ireland,minority
+Polish,United States,not official – minority
+Russian,Armenia,significant minority
+Russian,Azerbaijan,significant minority
+Russian,Belarus,co-official with Belarusian
+Russian,Bulgaria,minority
+Russian,China,minority
+Russian,Cyprus,significant minority
+Russian,Estonia,significant minority
+Russian,Finland,minority
+Russian,Georgia,significant minority
+Russian,Germany,significant minority
+Russian,Greece,minority
+Russian,Israel,significant minority
+Russian,Jordan,significant minority
+Russian,Kazakhstan,co-official with Kazakh
+Russian,North Korea,minority
+Russian,Kyrgyzstan,co-official with Kyrgyz
+Russian,Latvia,significant minority
+Russian,Lithuania,minority
+Russian,Transnistria,co-official with Ukrainian and Romanian
+Russian,Mongolia,significant minority
+Russian,Moldova,co-official in Gagauzia with Gagauz and Romanian
+Russian,Norway,minority
+Russian,Poland,minority
+Russian,Romania,significant minority
+Russian,Russia,official
+Russian,Serbia,minority
+Russian,Turkey,significant minority
+Russian,Tajikistan,significant minority
+Russian,Turkmenistan,significant minority
+Russian,Ukraine,"significant minority, regional in some regions"
+Russian,Uzbekistan,significant minority
+Rusyn,Hungary,minority
+Rusyn,Poland,minority
+Rusyn,Romania,minority
+Rusyn,Slovakia,minority
+Rusyn,Ukraine,official in Zakarpattia
+Rusyn,Serbia,"co-official in The Autonomous Province of Vojvodina with Serbian, Hungarian, 
+Slovak, Romanian, and Croatian."
+Serbian,Bosnia and Herzegovina,official with Croatian and Bosnian
+Serbian,Croatia,significant minority
+Serbian,Kosovo,co-official with Albanian
+Serbian,Macedonia,minority
+Serbian,Montenegro,minority
+Serbian,Romania,co-official in Caraşova
+Serbian,Serbia,official
+Slovak,Czech Republic,Co-official
+Slovak,Slovakia,official
+Slovene,Austria,minority
+Slovene,Croatia,minority
+Slovene,Hungary,minority
+Slovene,Italy,"co-official in Friuli-Venezia Giulia with Friulian, Italian and German"
+Slovene,Slovenia,official
+Slovene,United States,minority in Ohio
+"Sorbian, Lower",Germany,regional language in Brandenburg
+"Sorbian, Upper",Germany,regional language in Brandenburg and Saxony
+Ukrainian,Argentina,minority
+Ukrainian,Belarus,significant minority
+Ukrainian,Brazil,minority
+Ukrainian,Canada,minority
+Ukrainian,Hungary,minority
+Ukrainian,Kazakhstan,significant minority
+Ukrainian,Kyrgyzstan,minority
+Ukrainian,Moldova,significant minority
+Ukrainian,Slovakia,minority
+Ukrainian,Poland,minority
+Ukrainian,Romania,significant minority
+Ukrainian,Russia,significant minority
+Ukrainian,Transnistria,co-official with Romanian and Russian
+Ukrainian,Ukraine,official
+Ukrainian,United Kingdom,minority
+Ukrainian,United States,minority
+Ukrainian,Uzbekistan,minority
+Mongolian,Mongolia,official
+Mongolian,China,"regional, co-official with Chinese in Inner Mongolia Autonomous Region"
+Kalmyk Oirat,Russia,official language in  Kalmykia
+Daur,China,"minority, spoken by Daur people in Morin Dawa Daur Autonomous Banner of Inner 
+Mongolia"
+Azerbaijani,Azerbaijan,official
+Azerbaijani,Iran,"co-official, as well as in Iranian Azerbaijan"
+Azerbaijani,Iraq,minority
+Azerbaijani,Georgia,regional
+Azerbaijani,Russia,co-official in Dagestan
+Azerbaijani,Syria,minority
+Azerbaijani,Turkey,regional
+Azerbaijani,Ukraine,minority
+Azerbaijani,Belarus,minority
+Uyghur,China,"regional, co-official with Chinese in Xinjiang Uyghur Autonomous Region"
+Uyghur,Kazakhstan,minority
+Uzbek,Afghanistan,minority
+Uzbek,China,minority
+Uzbek,Kyrgyzstan,minority
+Uzbek,Russia,minority
+Uzbek,Tajikistan,minority
+Uzbek,Turkmenistan,minority
+Uzbek,Uzbekistan,official
+Kazakh,Afghanistan,minority
+Kazakh,China,"regional, co-official with Chinese in Ili Kazakh Autonomous Prefecture in 
+Xinjiang Uyghur Autonomous Region"
+Kazakh,Iran,minority
+Kazakh,Kazakhstan,official
+Kazakh,Mongolia,minority
+Kazakh,Russia,minority
+Kazakh,Tajikistan,minority
+Kazakh,Turkey,minority
+Kazakh,Turkmenistan,minority
+Kazakh,Ukraine,minority
+Kazakh,Uzbekistan,minority
+Kyrgyz,Afghanistan,minority
+Kyrgyz,China,minority
+Kyrgyz,Kyrgyzstan,official
+Kyrgyz,Pakistan,minority
+Kyrgyz,Tajikistan,minority
+Turkish,Turkey,official
+Turkish,Cyprus,co-official with Greek
+Turkish,Iran,recognized regional lang.
+Turkish,Iraq,recognized regional lang.
+Turkish,Kosovo,recognized regional lang.
+Turkish,Macedonia,recognized regional lang.
+Turkish,Romania,recognized minority lang.
+Turkish,Bulgaria,minority
+Turkish,Greece,minority
+Turkish,Germany,significant minority
+Turkish,Netherlands,significant minority
+Turkish,Israel,"significant minority, from immigration from Palestine"
+Turkish,Austria,significant minority
+Turkish,Denmark,significant minority
+Turkish,Sweden,"significant minority, from immigration from North Macedonia and Bulgaria"
+Turkish,Belgium,significant minority
+Turkish,United Kingdom,"significant minority, from immigration from Cyprus"
+Turkish,New Zealand,"significant minority, from immigration from Cyprus, via UK"
+Turkish,Switzerland,significant minority
+Turkish,Poland,"significant minority, from immigration from Germany"
+Turkish,Ukraine,"significant minority, from immigration from Georgia"
+Turkish,France,"significant minority, from immigration from Algeria"
+Turkish,Canada,"significant minority, from immigration from Cyprus and Algeria"
+Turkish,United States,"significant minority, especially in big cities, such as New York City, 
+Philadelphia and Chicago"
+Turkish,Australia,"significant minority, from immigration from Cyprus"
+Turkish,Ireland,"significant minority, from immigration from Cyprus"
+Turkish,Norway,"significant minority, also from immigration from Algeria"
+Turkmen,Turkmenistan,official
+Turkmen,Iraq,majority in northern Iraq
+Turkmen,Iran,minority
+Turkmen,Afghanistan,minority
+Turkmen,Russia,spoken in Stavropol Krai
+Turkmen,Turkey,minority
+Gagauz,Găgăuzia,"official language of the autonomous region of Gagauzia, Moldova"
+Gagauz,Moldova,recognized minority language
+Gagauz,Ukraine,recognized minority language
+Tatar,Tatarstan,official language of the Republic of Tatarstan
+Tatar,Russia,spoken in Russia and in former Soviet Union
+Tatar,Turkey,minority
+Crimean Tatar,Ukraine,"spoken in  Crimea and protected but not officially recognized language of 
+Ukraine"
+Crimean Tatar,Romania,minority language in Dobroudja
+Crimean Tatar,Turkey,minority
+Siberian Tatar,Russia,in Siberia
+Arabic,Algeria,co-official with Berber
+Arabic,Comoros,co-official with French
+Arabic,Chad,co-official with French
+Arabic,Djibouti,co-official with French
+Arabic,Egypt,official
+Arabic,Eritrea,co-official with Tigrinya
+Arabic,Libya,official
+Arabic,Mauritania,official
+Arabic,Morocco,co-official with Berber
+Arabic,Somalia,co-official with Somali
+Arabic,Sudan,co-official with English
+Arabic,Tunisia,official
+Arabic,Western Sahara,co-official with Spanish
+Arabic,Afghanistan,regional/religious
+Arabic,Bahrain,official
+Arabic,Iran,regional
+Arabic,Iraq,co-official with Kurdish
+Arabic,Israel,special status; formerly co-official with Hebrew
+Arabic,Jordan,official
+Arabic,Kuwait,official
+Arabic,Lebanon,official
+Arabic,Oman,official
+Arabic,Pakistan,optional language/religious
+Arabic,Palestine,official
+Arabic,Philippines,optional language along with Spanish/religious
+Arabic,Qatar,official
+Arabic,Saudi Arabia,official
+Arabic,Syria,official
+Arabic,United Arab Emirates,official
+Arabic,Yemen,official
+Arabic,France,minority
+Arabic,Germany,minority
+Arabic,Italy,minority
+Arabic,Netherlands,minority
+Arabic,Spain,minority
+Arabic,Sweden,minority
+Arabic,Turkey,significant minority
+Arabic,United Kingdom,minority
+Arabic,Australia,minority
+Arabic,Canada,minority
+Arabic,United States,significant minority
+Arabic,Argentina,"minority, immigrants from Lebanon"
+Arabic,Brazil,"minority, see Arab Brazilian"
+Arabic,Venezuela,"minority, from immigration. See Arab Venezuelan"
+Amharic,Ethiopia,official
+Hebrew,Judaism,Liturgical language of Judaism
+Hebrew,Israel,official
+Maltese,Malta,official
+Maltese,Australia,minority
+Maltese,Canada,minority
+Maltese,Italy,minority
+Maltese,United States,minority
+Tigrinya,Eritrea,co-official with Arabic
+Tigrinya,Ethiopia,minority
+Badaga,India,minority
+Brahui,Pakistan,"minority, spoken in Balochistan"
+Brahui,Iran,minority
+Brahui,Afghanistan,minority
+Brahui,Turkmenistan,minority
+Chenchu,India,minority
+Duruwa,India,minority
+Gondi,India,minority
+Kannada,India,"official language in the state of Karnataka. Also spoken in the states of 
+Telangana, Andhra Pradesh, Tamil Nadu, Kerala, Maharashtra, Goa. With 
+significant minorities in Delhi, Gurgaon, Kolkata and Gujarat."
+Kannada,United States,minority
+Kolami,India,minority
+Koraga,India,minority
+Kota,India,"minority, endangered Dravidian language"
+Koya,India,minority
+Kui,India,minority
+Kumarbhag Paharia,India,minority
+Kurukh,Bangladesh,minority
+Kurukh,India,minority
+Maria,India,minority
+Nagarchal,India,"minority, endangered Dravidian language"
+Pardhan,India,minority
+Sauria Paharia,India,minority
+Sauria Paharia,Bangladesh,minority
+Toda,India,"minority, endangered Dravidian language"
+Telugu,India,"official Andhra Pradesh, Telangana and Yanam"
+Telugu,Mauritius,minority
+Telugu,Denmark,minority
+Telugu,Germany,minority
+Telugu,Ireland,minority
+Telugu,Poland,minority
+Telugu,Sweden,minority
+Telugu,Russia,minority
+Telugu,Malaysia,minority
+Telugu,Myanmar,minority
+Telugu,Saudi Arabia,minority
+Telugu,Sri Lanka,minority
+Telugu,United Arab Emirates,minority
+Telugu,Australia,minority
+Telugu,New Zealand,minority
+Telugu,Canada,minority
+Telugu,United States,minority
+Telugu,Trinidad and Tobago,minority
+Telugu,Guyana,minority
+Telugu,Suriname,minority
+Telugu,Guadeloupe,minority
+Telugu,Martinique,minority
+Tamil,India,"official language in the state of Tamil Nadu, Puducherry and Andaman and 
+Nicobar Islands. Also spoken in the states of Telangana, Andhra Pradesh, 
+Karnataka, Maharashtra, Kerala (Palakkad region). With significant 
+minorities in Delhi, Gurgaon, Uttar Pradesh (NOIDA, Ghaziabad, Lucknow, 
+Varanasi, Allahabad), Bengal (Kolkata and Durgapur), Gujarat (Ahmadabad, 
+Baroda, Surat & Jamnagar), Rajasthan(Jaipur and Ajmer), small minorities in 
+Bihar(Patna and Gaya) and Manipur."
+Tamil,Sri Lanka,"official (national) language along with Sinhala, 1,229,000 Muslims, 
+4,656,000 Hindu"
+Tamil,Singapore,"official language along with Tamil, Mandarin, and Malay, 127,000 speakers
+"
+Tamil,Australia,minority
+Tamil,Bahrain,"minority, 35,000 speakers"
+Tamil,Canada,"significant minority, 200,000 speakers"
+Tamil,Fiji,"significant minority, 78,000 speakers"
+Tamil,France,significant minority
+Tamil,Germany,"minority, 33,000 speakers"
+Tamil,Malaysia,significant minority 1.8 million speakers
+Tamil,Mauritius,"significant minority, 115,200 speakers"
+Tamil,Myanmar,"significant minority, 151,000 speakers"
+Tamil,New Zealand,minority
+Tamil,Oman,"minority, 101,000 speakers"
+Tamil,South Africa,"significant minority, 600,000 speakers"
+Tamil,Thailand,"minority, 34,200 speakers"
+Tamil,United Kingdom,Significant minority
+Tamil,United States,"significant minority, 250,000 speakers"
+Tamil,Trinidad and Tobago,minority
+Tamil,Guyana,significant minority
+Tamil,Suriname,minority
+Tamil,Guadeloupe,minority
+Tamil,Martinique,minority
+Malayalam,India,"official at state of Kerala and Union Territory of Lakshwadeep. 
+
+co-official in Puducherry (Mahe)"
+Malayalam,United Arab Emirates,"significant minority, 319,000 speakers"
+Malayalam,Australia,minority
+Malayalam,Bahrain,"minority, 51,000 speakers"
+Malayalam,Canada,"minority, 18,000 speakers"
+Malayalam,Kuwait,minority
+Malayalam,Malaysia,"minority, 172,000 speakers"
+Malayalam,New Zealand,"minority, 6,000 speakers"
+Malayalam,Oman,"minority, 69,000 speakers"
+Malayalam,Qatar,"minority, 63,000 speakers"
+Malayalam,Saudi Arabia,minority
+Malayalam,Singapore,"minority, 24,000 speakers"
+Malayalam,United Kingdom,minority
+Malayalam,United States,"minority, 84,000 speakers"
+Tulu,Bahrain,minority
+Tulu,India,"minority; mainly in the region of Tulu Nadu, Karnataka and in the state of 
+Maharashtra"
+Tulu,Kuwait,minority
+Tulu,Oman,minority
+Tulu,Qatar,minority
+Tulu,Saudi Arabia,significant minority
+Tulu,United Arab Emirates,minority
+Tulu,United States,significant minority
+Kodava,India,minority
+Ollari,India,minority
+Japanese,Japan,national
+Japanese,Philippines,significant minority. See Japanese in the Philippines
+Japanese,France,minority
+Japanese,Brazil,significant minority
+Japanese,Peru,minority
+Japanese,United States,minority
+Japanese,Palau,Official in Angaur
+Japanese,Taiwan,minority
+Ryukyuan,Brazil,minority
+Ryukyuan,Japan,minority
+Ryukyuan,Taiwan,minority
+Korean,Australia,minority
+Korean,Brazil,minority
+Korean,Canada,minority
+Korean,China,"minority, co-official with Chinese in Yanbian Korean Autonomous Prefecture 
+in Jilin Province"
+Korean,Japan,minority
+Korean,North Korea,official
+Korean,Philippines,minority
+Korean,South Korea,official
+Korean,Taiwan,minority
+Korean,United States,minority
+Jeju,South Korea,"official, in Jeju Island"
+Basque,France,majority in Northern Basque Country
+Basque,Spain,co-official with Spanish in  Basque Country and parts of  Navarre
+Basque,Venezuela,"minority, from immigration. See Basque Venezuelan"
+Nihali,India,"minority, endangered language"
+Georgian,Georgia,official
+Georgian,Turkey,minority
+Georgian,Iran,minority
+Georgian,Azerbaijan,minority
+Mingrelian language,Georgia,significant language
+Mingrelian language,Abkhazia,significant language
+Svan language,Georgia,minority
+Laz language,Turkey,significant language
+Laz language,Georgia,minority
+Burmese,Myanmar,official
+Burmese,Malaysia,minority
+Burmese,Singapore,"minority, 50,000 p."
+Burmese,Thailand,minority
+Dzongkha,Bhutan,official
+Tibetan,China,"minority, official in Tibet Autonomous Region"
+Tibetan,Nepal,"minority, in Upper Mustang"
+Tibetan,India,minority
+Hani,China,"minority, in Yunnan province."
+Hani,Vietnam,"minority, called ""Hà Nhì"""
+Hani,Laos,"minority,"
+Karen,Australia,"minority, 11,000 p."
+Karen,Myanmar,"minority, 7 mi. p., Kayin state"
+Karen,Thailand,"minority, 1 mi. p.,"
+Karen,United States,"minority, 70,000 p."
+Lahu,China,"minority, 720,000 peoples, in Yunnan province."
+Lahu,Laos,minority
+Lahu,Myanmar,"minority, 150,000 peoples"
+Lahu,Thailand,"minority, 100,000 peoples"
+Lahu,United States,minority
+Lahu,Vietnam,"minority, called ""La Hủ"""
+Meithei,India,"recognized minority, spoken by 1.25 mi. p. in Manipur and others"
+"Nuosu (Yi, Lolo)",China,"minority, spoken by 7.76 mi. of Yi people in South China"
+"Nuosu (Yi, Lolo)",Vietnam,"minority, called ""Lô Lô""."
+Cantonese,Angola,minority
+Cantonese,Cape Verde,minority
+Cantonese,Mauritius,minority
+Cantonese,South Africa,minority
+Cantonese,Brunei,minority
+Cantonese,Cambodia,minority
+Cantonese,China,regional
+Cantonese,Hong Kong,co-official with English
+Cantonese,Indonesia,minority
+Cantonese,Japan,minority
+Cantonese,North Korea,minority
+Cantonese,South Korea,minority
+Cantonese,Laos,minority
+Cantonese,Macau,co-official with Portuguese
+Cantonese,Malaysia,minority
+Cantonese,Myanmar,minority
+Cantonese,Philippines,minority
+Cantonese,Singapore,minority
+Cantonese,Thailand,minority
+Cantonese,Vietnam,minority
+Cantonese,Bulgaria,minority
+Cantonese,France,minority
+Cantonese,Germany,minority
+Cantonese,Ireland,minority
+Cantonese,Italy,minority
+Cantonese,Netherlands,minority
+Cantonese,Romania,minority
+Cantonese,Russia,minority
+Cantonese,Serbia,minority
+Cantonese,Spain,minority
+Cantonese,United Kingdom,minority
+Cantonese,Canada,minority
+Cantonese,Cuba,minority
+Cantonese,Dominican Republic,minority
+Cantonese,Jamaica,minority
+Cantonese,Mexico,minority
+Cantonese,Nicaragua,minority
+Cantonese,Panama,minority
+Cantonese,Trinidad and Tobago,minority
+Cantonese,United States,minority
+Cantonese,Australia,minority
+Cantonese,Fiji,minority
+Cantonese,New Zealand,minority
+Cantonese,Samoa,minority
+Cantonese,Tonga,minority
+Cantonese,Argentina,minority
+Cantonese,Brazil,minority
+Cantonese,Chile,regional
+Cantonese,Guyana,minority
+Cantonese,Suriname,minority
+Cantonese,Peru,minority
+Cantonese,Suriname,minority
+Cantonese,Venezuela,minority
+Taishanese,South Africa,minority
+Taishanese,China,regional
+Taishanese,Indonesia,minority
+Taishanese,Malaysia,minority
+Taishanese,Philippines,minority
+Taishanese,Singapore,minority
+Taishanese,Thailand,minority
+Taishanese,Vietnam,minority
+Taishanese,United Kingdom,minority
+Taishanese,Canada,minority
+Taishanese,United States,minority
+Taishanese,Australia,minority
+Taishanese,New Zealand,minority
+Taishanese,Brazil,minority
+Taishanese,Peru,minority
+Taishanese,Venezuela,minority
+Hakka,Angola,minority
+Hakka,Cape Verde,minority
+Hakka,Mauritius,minority
+Hakka,South Africa,minority
+Hakka,Brunei,minority
+Hakka,Cambodia,minority
+Hakka,China,regional
+Hakka,Hong Kong,minority
+Hakka,Indonesia,minority
+Hakka,Japan,minority
+Hakka,North Korea,minority
+Hakka,South Korea,minority
+Hakka,Laos,minority
+Hakka,Macau,minority
+Hakka,Malaysia,minority
+Hakka,Myanmar,minority
+Hakka,Philippines,minority
+Hakka,Singapore,minority
+Hakka,Taiwan,co-official with Chinese
+Hakka,Thailand,minority
+Hakka,Vietnam,minority
+Hakka,Bulgaria,minority
+Hakka,France,minority
+Hakka,Germany,minority
+Hakka,Ireland,minority
+Hakka,Italy,minority
+Hakka,Netherlands,minority
+Hakka,Romania,minority
+Hakka,Russia,minority
+Hakka,Serbia,minority
+Hakka,Spain,minority
+Hakka,United Kingdom,minority
+Hakka,Canada,minority
+Hakka,Cuba,minority
+Hakka,Dominican Republic,minority
+Hakka,Jamaica,minority
+Hakka,Mexico,minority
+Hakka,Nicaragua,minority
+Hakka,Panama,minority
+Hakka,Trinidad and Tobago,minority
+Hakka,United States,minority
+Hakka,Australia,minority
+Hakka,Fiji,minority
+Hakka,New Zealand,minority
+Hakka,Samoa,minority
+Hakka,Tonga,minority
+Hakka,Argentina,minority
+Hakka,Brazil,minority
+Hakka,Chile,regional
+Hakka,Guyana,minority
+Hakka,Peru,minority
+Hakka,Suriname,minority
+Mandarin (Standard Chinese),Angola,minority
+Mandarin (Standard Chinese),Cape Verde,minority
+Mandarin (Standard Chinese),Mauritius,minority
+Mandarin (Standard Chinese),South Africa,minority
+Mandarin (Standard Chinese),Brunei,minority
+Mandarin (Standard Chinese),Cambodia,minority
+Mandarin (Standard Chinese),China,national
+Mandarin (Standard Chinese),Hong Kong,minority
+Mandarin (Standard Chinese),Indonesia,minority
+Mandarin (Standard Chinese),Japan,minority
+Mandarin (Standard Chinese),North Korea,minority
+Mandarin (Standard Chinese),South Korea,minority
+Mandarin (Standard Chinese),Laos,minority
+Mandarin (Standard Chinese),Macau,minority
+Mandarin (Standard Chinese),Malaysia,significant minority
+Mandarin (Standard Chinese),Myanmar,minority
+Mandarin (Standard Chinese),Philippines,minority
+Mandarin (Standard Chinese),Singapore,"co-official with English, Malay and Tamil"
+Mandarin (Standard Chinese),Taiwan,official
+Mandarin (Standard Chinese),Thailand,minority
+Mandarin (Standard Chinese),Vietnam,minority
+Mandarin (Standard Chinese),Bulgaria,minority
+Mandarin (Standard Chinese),France,minority
+Mandarin (Standard Chinese),Germany,minority
+Mandarin (Standard Chinese),Ireland,minority
+Mandarin (Standard Chinese),Italy,minority
+Mandarin (Standard Chinese),Netherlands,minority
+Mandarin (Standard Chinese),Romania,minority
+Mandarin (Standard Chinese),Russia,minority
+Mandarin (Standard Chinese),Serbia,minority
+Mandarin (Standard Chinese),Spain,minority
+Mandarin (Standard Chinese),United Kingdom,minority
+Mandarin (Standard Chinese),Canada,minority
+Mandarin (Standard Chinese),Cuba,minority
+Mandarin (Standard Chinese),Dominican Republic,minority
+Mandarin (Standard Chinese),Jamaica,minority
+Mandarin (Standard Chinese),Mexico,minority
+Mandarin (Standard Chinese),Nicaragua,minority
+Mandarin (Standard Chinese),Panama,minority
+Mandarin (Standard Chinese),Puerto Rico,minority
+Mandarin (Standard Chinese),Trinidad and Tobago,minority
+Mandarin (Standard Chinese),United States,minority
+Mandarin (Standard Chinese),Australia,minority
+Mandarin (Standard Chinese),Fiji,minority
+Mandarin (Standard Chinese),New Zealand,minority
+Mandarin (Standard Chinese),Samoa,minority
+Mandarin (Standard Chinese),Tonga,minority
+Mandarin (Standard Chinese),Argentina,minority
+Mandarin (Standard Chinese),Brazil,minority
+Mandarin (Standard Chinese),Chile,regional
+Mandarin (Standard Chinese),Guyana,minority
+Mandarin (Standard Chinese),Peru,minority
+Mandarin (Standard Chinese),Suriname,minority
+Mandarin (Standard Chinese),Venezuela,minority
+Min/Min Nan,Angola,minority
+Min/Min Nan,Cape Verde,minority
+Min/Min Nan,Mauritius,minority
+Min/Min Nan,South Africa,minority
+Min/Min Nan,Brunei,minority
+Min/Min Nan,Cambodia,minority
+Min/Min Nan,China,regional
+Min/Min Nan,Hong Kong,minority
+Min/Min Nan,Indonesia,minority
+Min/Min Nan,Japan,minority
+Min/Min Nan,North Korea,minority
+Min/Min Nan,South Korea,minority
+Min/Min Nan,Laos,minority
+Min/Min Nan,Macau,minority
+Min/Min Nan,Malaysia,"minority, lingua franca in Penang"
+Min/Min Nan,Myanmar,minority
+Min/Min Nan,Philippines,minority
+Min/Min Nan,Singapore,"widely spoken among the older generation, still a minority for the younger 
+generation"
+Min/Min Nan,Taiwan,"widely spoken, lingua franca alongside Hakka, see Taiwanese Hokkien, 
+statutory language for public transportation announcements"
+Min/Min Nan,Thailand,minority
+Min/Min Nan,Vietnam,minority
+Min/Min Nan,Bulgaria,minority
+Min/Min Nan,France,minority
+Min/Min Nan,Germany,minority
+Min/Min Nan,Ireland,minority
+Min/Min Nan,Italy,minority
+Min/Min Nan,Netherlands,minority
+Min/Min Nan,Romania,minority
+Min/Min Nan,Russia,minority
+Min/Min Nan,Serbia,minority
+Min/Min Nan,Spain,minority
+Min/Min Nan,United Kingdom,minority
+Min/Min Nan,Canada,minority
+Min/Min Nan,Cuba,minority
+Min/Min Nan,Dominican Republic,minority
+Min/Min Nan,Jamaica,minority
+Min/Min Nan,Mexico,minority
+Min/Min Nan,Nicaragua,minority
+Min/Min Nan,Panama,minority
+Min/Min Nan,Trinidad and Tobago,minority
+Min/Min Nan,United States,minority
+Min/Min Nan,Australia,minority
+Min/Min Nan,Fiji,minority
+Min/Min Nan,New Zealand,minority
+Min/Min Nan,Samoa,minority
+Min/Min Nan,Tonga,minority
+Min/Min Nan,Argentina,minority
+Min/Min Nan,Brazil,minority
+Min/Min Nan,Chile,regional
+Min/Min Nan,Guyana,minority
+Min/Min Nan,Peru,minority
+Min/Min Nan,Suriname,minority
+Gaoyang,China,regional
+Hui,China,regional
+Jin,China,regional
+Hainanese,China,regional
+Pinghua,China,regional
+Wu,China,regional
+Wu,Hong Kong,minority
+Wu,United States,minority
+Wu,Canada,minority
+Xiang,China,regional
+Bajau,Indonesia,minority
+Bajau,Malaysia,minority
+Bajau,Philippines,minority
+Brunei Malay,Brunei,regional
+Brunei Malay,Malaysia,minority
+Coastal Kadazan,Malaysia,minority
+Iban,Malaysia,regional
+Iban,Brunei,minority
+Iban,Indonesia,minority
+Malagasy,Comoros,minority
+Malagasy,Madagascar,official
+Malagasy,Mayotte,minority
+Sama,Indonesia,minority
+Sama,Malaysia,minority
+Sama,Philippines,minority
+Yakan,Philippines,regional
+Aklanon,Philippines,regional
+Bantik,Indonesia,minority
+Bikol,Philippines,regional
+Bolinao,Philippines,regional
+Cebuano,Philippines,regional
+Cebuano,Saudi Arabia,minority
+Cebuano,United States,minority
+Cuyonon,Philippines,minority
+Hiligaynon,Philippines,regional
+Hiligaynon,United States,minority
+Ibanag,Philippines,regional
+Ifugao,Philippines,minority
+Ilocano,Philippines,regional
+Ilocano,United States,minority
+Iranun,Malaysia,minority
+Iranun,Philippines,regional
+Ivatan,Philippines,minority
+Kalinga,Philippines,minority
+Kamayo,Philippines,minority
+Kankana-ey,Philippines,minority
+Kapampangan,Philippines,regional
+Kinaray-a,Philippines,minority
+Maguindanao,Philippines,regional
+Maranao,Malaysia,minority
+Maranao,Philippines,regional
+Maranao,Saudi Arabia,minority
+Maranao,United States,minority
+Masbatenyo,Philippines,minority
+Pangasinan,Philippines,regional
+Romblomanon,Philippines,minority
+Sangirese,Indonesia,minority
+Sangirese,Philippines,minority
+Surigaonon,Philippines,regional
+Tagalog,Australia,minority
+Tagalog,Brunei,minority
+Tagalog,Canada,minority
+Tagalog,Guam,regional
+Tagalog,Hong Kong,minority
+Tagalog,Indonesia,minority
+Tagalog,Israel,minority
+Tagalog,Italy,minority
+Tagalog,Japan,significant minority
+Tagalog,Kuwait,minority
+Tagalog,Malaysia,significant minority
+Tagalog,New Zealand,minority
+Tagalog,Palau,regional
+Tagalog,Philippines,regional and co-official with English
+Tagalog,Qatar,minority
+Tagalog,Saudi Arabia,significant minority
+Tagalog,Singapore,minority
+Tagalog,South Korea,minority
+Tagalog,Spain,minority
+Tagalog,Taiwan,minority
+Tagalog,Thailand,minority
+Tagalog,United Arab Emirates,minority
+Tagalog,United Kingdom,minority
+Tagalog,United States,significant minority
+Tao,Taiwan,minority
+Talaud,Indonesia,minority
+Tausug,Brunei,minority
+Tausug,Indonesia,minority
+Tausug,Malaysia,minority
+Tausug,Philippines,regional
+Tondano,Indonesia,minority
+Tonsawang,Indonesia,minority
+Tonsea,Indonesia,minority
+Waray,Philippines,regional
+Zambal,Philippines,regional
+Fijian,Fiji,official
+Carolinian,Northern Mariana Islands,official
+Carolinian,Guam,minority
+Chuukese,FS. Micronesia,regional
+Gilbertese,Fiji,minority
+Gilbertese,Kiribati,official
+Gilbertese,Nauru,minority
+Gilbertese,Solomon Islands,minority
+Gilbertese,Tuvalu,minority
+Gilbertese,Vanuatu,minority
+Kosraean,FS. Micronesia,regional
+Marshallese,Marshall Islands,official
+Nauruan,Nauru,official
+Pohnpeian,FS. Micronesia,regional
+Sosorolese,Palau,regional
+Tobian,Palau,regional
+Ulithian,FS. Micronesia,regional
+Yapese,FS. Micronesia,regional
+Cook Islands Māori,Cook Islands,official
+Futunan,Wallis and Futuna,official
+Hawaiian,Hawaii,official
+Māori,New Zealand,co-official with English and New Zealand Sign Language
+Niuean,Cook Islands,minority
+Niuean,Niue,official
+Niuean,New Zealand,minority
+Niuean,Tonga,minority
+Rapa Nui,Easter Island,official
+Samoan,American Samoa,official
+Samoan,Samoa,official
+Tahitan,French Polynesia,official
+Tokelauan,Tokelau,official
+Tongan,Tonga,official
+Tuvaluan,Tuvalu,official
+Wallisian,Wallis and Futuna,official
+Acehnese,Indonesia,minority
+Balinese,Indonesia,minority
+Banjarese,Indonesia,minority
+Cham,Cambodia,minority
+Cham,Vietnam,minority
+Cham,Malaysia,minority
+Indonesian,Indonesia,official
+Indonesian,East Timor,co-official with Tetum
+Indonesian,Malaysia,minority
+Indonesian,Brunei,minority
+Indonesian,Singapore,minority
+Indonesian,Taiwan,"widely spoken, the people were historically in charged to colonize Dutch 
+East Indies and Indonesia has become the biggest work force in Taiwan"
+Indonesian,Thailand,minority
+Indonesian,Philippines,minority
+Jarai,Vietnam,minority
+Jarai,Cambodia,minority
+Javanese,Indonesia,regional
+Javanese,Malaysia,minority
+Javanese,Suriname,minority
+Lampung,Indonesia,minority
+Madurese,Indonesia,minority
+Makassarese,Indonesia,minority
+Malay,Malaysia,official
+Malay,Brunei,official
+Malay,Singapore,co-official
+Malay,Indonesia,regional
+Malay,Philippines,significant minority
+Malay,Taiwan,"significant minority from historical event, see Japanese Empire"
+Malay,Thailand,minority
+Minangkabau,Indonesia,regional
+Minangkabau,Malaysia,regional
+Minangkabau,Singapore,minority
+Palauan,Palau,official
+Rejang,Indonesia,minority
+Sasak,Indonesia,minority
+Tetum,East Timor,official
+Evenki,Russia,"minority, in Siberia"
+Evenki,China,"minority, in Evenki Autonomous Banner of Inner Mongolia"
+Evenki,Mongolia,minority
+Nanai (Hezhen),Russia,"minority, in Khabarovsk Krai"
+Nanai (Hezhen),China,"minority, in Heilongjiang Province"
+Manchu,China,in North East china
+Estonian,Estonia,official
+Estonian,Finland,minority
+Estonian,Russia,minority
+Finnish,Finland,"co-official with Swedish except in Åland Islands, where Swedish is the only 
+official language."
+Finnish,Estonia,minority
+Finnish,Norway,minority
+Finnish,Russia,minority
+Finnish,Sweden,minority
+Hungarian,Hungary,official
+Hungarian,Serbia,"minority, co-official in Vojvodina"
+Hungarian,Romania,significant minority
+Hungarian,Slovakia,minority
+Hungarian,Austria,minority
+Hungarian,Ukraine,minority
+Sami,Finland,official minority language in Lapland.
+Sami,Norway,official
+Sami,Russia,non-recognised minority
+Sami,Sweden,official regional minority language
+Navajo,United States[41],minority
+Apache,United States,minority
+Chiricahua,United States,minority
+Jicarilla,United States,minority
+Lipan Apache,United States,minority
+Plains Apache,United States,minority
+Mescalero,United States,minority
+Western Apache,United States,minority
+Cherokee,United States,"minority; mostly spoken in the region of  Cherokee Nation in the state of  
+Oklahoma"
+Erie (Language),United States,minority
+Hopi,United States,"officially; in Hopi Reservation Hopi, AZ"
+Tübatulabal,United States,minority
+Tongva,United States,"minority; in Los Angeles, CA"
+Numic,United States,minority
+Bahnar,Vietnam,"minority, 227,716 p. in south Vietnam (2009)"
+Bru,Laos,"minority, 69,000 p. in south Laos."
+Bru,Vietnam,"minority, 74,500 p. in central Vietnam (2009)"
+Bru,Thailand,minority
+Khasi,India,official language in Meghalaya
+Khasi,Bangladesh,minority
+Khmer,Cambodia,official
+Khmer,Vietnam,"minority, 1.26 mi. p. in south Vietnam"
+Khmer,Thailand,minority
+Khmu,Laos,"minority, 621,000 p."
+Khmu,Vietnam,"minority, 73,000 p."
+Khmu,Thailand,"minority, 10,000 p."
+Khmu,China,minority
+Kuy,Thailand,minority
+Kuy,Cambodia,minority
+Kuy,Laos,minority
+Mnong,Vietnam,minority
+Mnong,Cambodia,minority
+Mon,Myanmar,Recognised regional language
+Mon,Thailand,minority
+Muong,Vietnam,"minority, spoken by 1.6 mi. Muong peoples in north Vietnam"
+Vietnamese,Vietnam,official
+Vietnamese,Czech Republic,minority
+Vietnamese,United States,minority
+Vietnamese,Australia,"minority, 0.21 mi.p."
+Vietnamese,Cambodia,"minority, 0.6 mi.p."
+Vietnamese,Canada,"minority, 0.22 mi.p."
+Vietnamese,France,"minority, 0.3 mi.p."
+Vietnamese,Laos,"minority, 0.1 mi.p."
+Wa,Myanmar,"minority, 0.9 mi. peoples in Shan state"
+Wa,China,"minority, 0.4 mi. peoples in China's Yunnan Province."
+Bouyei,China,"minority, in south China"
+Bouyei,Vietnam,"minority, called ""Giáy"", in north Vietnam"
+Lao,Laos,official
+Lao,Thailand,"minority, known as Isan, 20 mi. p. in northern and eastern Thailand"
+Thai,Thailand,official
+Thai,China,"minority, spoken by Dai people in south China, noted as Tai Lü and Tai 
+Nüa"
+Thai,Myanmar,"minority,"
+Thai,Vietnam,"minority, 1.6 mi. p., as Thái dialect in north Vietnam"
+Shan,Myanmar,"minority, but majority in Shan state"
+Shan,Thailand,"minority, in north-west"
+Nung,Vietnam,"minority, spoken by 1 mi. p. in north Vietnam"
+Tày,Vietnam,"minority, spoken by 1.6 mi. p. in north Vietnam"
+Zhuang,China,"minority, 18 mi. peoples, most in Guangxi Zhuang Autonomous Region."
+"Hmong
+(Miao)",China,minority
+"Hmong
+(Miao)",Vietnam,minority
+"Hmong
+(Miao)",Laos,minority
+"Hmong
+(Miao)",Thailand,minority
+"Hmong
+(Miao)",United States,minority
+"Hmong
+(Miao)",Australia,minority
+"Hmong
+(Miao)",France,minority
+"Mienic
+(Yao)",China,minority
+"Mienic
+(Yao)",Vietnam,"minority, called ""Dao"""
+"Mienic
+(Yao)",Laos,minority
+"Mienic
+(Yao)",Thailand,minority
+Yolŋu,Australia,minority
+Gurindji,Australia,minority
+Ngaanyatjarra,Australia,minority
+Kartu,Australia,minority
+Karnic,Australia,minority
+Yotayotic,Australia,minority
+Yuin–Kuric,Australia,minority
+Warlpiri,Australia,minority
+Kalaw Lagaw Ya,Australia,minority
+Warrongo,Australia,minority
