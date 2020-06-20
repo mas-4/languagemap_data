@@ -32,7 +32,7 @@ free to be cloned and adjusted.
 
 ## Call to Action
 
-I normalized the status codes to a mere 5.  I do not want more than there
+I normalized the status codes to a mere 10. I do not want more than there
 already are. In fact, I would like to reduce the number. I understand that
 languages are complex, but this project isn't meant to be a definitive resource,
 it's just to give people a sense of how much of the world they can visit and
@@ -41,10 +41,31 @@ know the language in. Plus, I really don't know what the hell a naked
 designed and if we can contribute back to it by renormalizing into a single
 table it would be incredible, I'm just not sure if it would be welcome.
 
+## Current Statuses
+The current statuses are listed below. I specifically would like to get rid of
+significant language and unofficial. They are the least clear. Historical
+language also seems silly.
+
+Below are what I assume are the definitions for the various status codes.
+
+- `administrative language`: a language used only for administrative functions.
+- `de facto`: a language that is spoken by the majority of the population even
+  if it is not an official language.
+- `historical language`: a language important to the history of the country.
+- `majority`: honestly this is probably the same as de facto and needs
+  elimination.
+- `minority`: any language spoken by a minority of the population.
+- `official`: a language that is officially recognized.
+- `regional`: a language spoken in a region or regions, either by a minority in
+  that region, or by a majority.
+- `religious`: a religion mostly used for religious services.
+- `significant language`: I have no idea.
+- `unofficial`: I have no idea.
+
 ## How to Contribute
 The original status descriptions of the languages on the Wikipedia page are
 visible in original_non-normalized.csv. If you have a good reason to change the
-status of a row or group of rows, please do so in langauges_final.csv and
+status of a row or group of rows, please do so in languages_final.csv and
 explain the change in your commit/PR. The only sheet worth changing is that one
 because it's the one from which I build the json file for langmap.netlify.app.
 
