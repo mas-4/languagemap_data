@@ -37,14 +37,14 @@ already are. In fact, I would like to reduce the number. I understand that
 languages are complex, but this project isn't meant to be a definitive resource,
 it's just to give people a sense of how much of the world they can visit and
 know the language in. Plus, I really don't know what the hell a naked
-'unofficial' is. In general, that Wikipedia page is horribly sourced and
+`unofficial` is. In general, that Wikipedia page is horribly sourced and
 designed and if we can contribute back to it by renormalizing into a single
 table it would be incredible, I'm just not sure if it would be welcome.
 
 ## Current Statuses
 The current statuses are listed below. I specifically would like to get rid of
-significant language and unofficial. They are the least clear. Historical
-language also seems silly.
+`significant language` and `unofficial`. They are the least clear. `Historical
+language` also seems silly.
 
 Below are what I assume are the definitions for the various status codes.
 
