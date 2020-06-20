@@ -1,0 +1,1642 @@
+language,country,status
+Albanian,Albania,official
+Albanian,Greece,minority
+Albanian,Italy,minority
+Albanian,Kosovo,official
+Albanian,North Macedonia,official
+Albanian,Montenegro,regional
+Albanian,Romania,minority
+Albanian,Serbia,regional
+Albanian,Slovenia,minority
+Albanian,Turkey,minority
+Armenian,Armenia,official
+Armenian,Azerbaijan,minority
+Armenian,Cyprus,minority
+Armenian,Georgia,minority
+Armenian,Hungary,minority
+Armenian,Iran,minority
+Armenian,Iraq,minority
+Armenian,Israel,minority
+Armenian,Jordan,minority
+Armenian,Lebanon,official
+Armenian,Poland,minority
+Armenian,Romania,minority
+Armenian,Syria,minority
+Armenian,Turkey,minority
+Armenian,Ukraine,minority
+Latgalian,Latvia,regional
+Latgalian,Russia,regional
+Latvian,Latvia,official
+Lithuanian,Latvia,minority
+Lithuanian,Lithuania,official
+Lithuanian,Poland,regional
+Breton,France,regional
+Cornish,United Kingdom,regional
+Irish,Ireland,official
+Irish,United Kingdom,minority
+Irish,United States,minority
+Irish,Canada,minority
+Irish,Australia,minority
+Irish,New Zealand,minority
+Manx,Isle of Man,minority
+Scottish Gaelic,Canada,minority
+Scottish Gaelic,United Kingdom,regional
+Scottish Gaelic,United States,minority
+Welsh,Argentina,minority
+Welsh,United Kingdom,regional
+Welsh,United States,minority
+Afrikaans,South Africa,official
+Afrikaans,Namibia,minority
+Afrikaans,United States,minority
+Afrikaans,Netherlands,minority
+Afrikaans,United Kingdom,minority
+Afrikaans,Germany,minority
+Afrikaans,Belgium,minority
+Afrikaans,Australia,minority
+Afrikaans,Argentina,minority
+Alsatian,France,regional
+Danish,Denmark,official
+Danish,Germany,regional
+Danish,Faroe Islands,official
+Danish,Greenland,minority
+Danish,Iceland,minority
+Faroese,Faroe Islands,official
+Faroese,Denmark,unofficial
+Frisian,Denmark,minority
+Frisian,Germany,minority
+Frisian,Netherlands,minority
+Icelandic,Iceland,official
+Icelandic,Denmark,minority
+"Low German
+(Low Saxon)",Germany,regional
+"Low German
+(Low Saxon)",Netherlands,regional
+Luxembourgish,Luxembourg,official
+Luxembourgish,Belgium,minority
+Luxembourgish,Germany,minority
+Norwegian,Norway,official
+Scots,Scotland,minority
+Scots,Ireland,minority
+Scots,United States,minority
+Scots,Canada,regional
+Swedish,Sweden,official
+Swedish,Finland,official
+Swedish,Åland Islands,official
+Swedish,Estonia,minority
+Dutch,Netherlands,official
+Dutch,Belgium,official
+Dutch,France,regional
+Dutch,Germany,regional
+Dutch,South Africa,minority
+Dutch,Indonesia,historical language
+Dutch,New Zealand,Minority
+Dutch,Aruba,official
+Dutch,Curaçao,official
+Dutch,Sint Maarten,official
+Dutch,United States,minority
+Dutch,Canada,Minority
+Dutch,Suriname,official
+Dutch,French Guiana,regional
+English,Botswana,official
+English,Cameroon,official
+English,Egypt,minority
+English,Eswatini (Swaziland),official
+English,Gambia,official
+English,Ghana,official
+English,Kenya,official
+English,Lesotho,official
+English,Liberia,official
+English,Malawi,official
+English,Mauritius,official
+English,Namibia,official
+English,Nigeria,official
+English,Rwanda,official
+English,Seychelles,official
+English,Sierra Leone,official
+English,South Africa,official
+English,South Sudan,official
+English,Uganda,official
+English,Zambia,official
+English,Zimbabwe,official
+English,Bahrain,unofficial
+English,India,official
+English,Lebanon,minority
+English,Pakistan,official
+English,Philippines,official
+English,Singapore,official
+English,Bangladesh,official
+English,Sri Lanka,official
+English,Malaysia,official
+English,Brunei,official
+English,Ireland,official
+English,Malta,official
+English,United Kingdom,official
+English,Antigua and Barbuda,official
+English,Bahamas,official
+English,Barbados,official
+English,Belize,official
+English,Canada,official
+English,Dominica,official
+English,Grenada,official
+English,Jamaica,official
+English,Saint Kitts and Nevis,official
+English,Saint Lucia,official
+English,Saint Vincent and the Grenadines,official
+English,Trinidad and Tobago,official
+English,United States,de facto
+English,Australia,de facto
+English,Fiji,official
+English,Kiribati,official
+English,Marshall Islands,official
+English,FS. Micronesia,official
+English,Nauru,de facto
+English,New Zealand,official
+English,Palau,official
+English,Papua New Guinea,official
+English,Solomon Islands,official
+English,Vanuatu,official
+English,Guyana,official
+English,Colombia,regional
+English,American Samoa,official
+English,British Indian Ocean Territory,de facto
+English,Anguilla,official
+English,Bermuda,official
+English,British Virgin Islands,official
+English,Cayman Islands,official
+English,Christmas Island,official
+English,Cook Islands,official
+English,Falkland Islands,official
+English,Gibraltar,official
+English,Guam,official
+English,Guernsey,official
+English,Hong Kong,official
+English,Isle of Man,official
+English,Jersey,official
+English,Montserrat,official
+English,Norfolk Island,official
+English,Northern Mariana Islands,official
+English,Pitcairn Islands,official
+English,Puerto Rico,official
+English,"Saint Helena, Ascension and Tristan da Cunha",official
+English,South Georgia and the South Sandwich Islands,official
+English,Turks and Caicos Islands,official
+English,U.S. Virgin Islands,official
+German,Austria,official
+German,Germany,official
+German,Liechtenstein,official
+German,Switzerland,official
+German,Belgium,official
+German,Hungary,official
+German,Italy,official
+German,Lithuania,minority
+German,Luxembourg,official
+German,Poland,official
+German,Vatican City,official
+German,France,regional
+German,Czech Republic,minority
+German,Denmark,minority
+German,Romania,minority
+German,Russia,minority
+German,Egypt,minority
+German,Namibia,official
+German,Kazakhstan,minority
+German,Lebanon,minority
+German,Canada,minority
+German,Costa Rica,minority
+German,Guatemala,minority
+German,Mexico,minority
+German,United States,minority
+German,Argentina,minority
+German,Brazil,regional
+German,Chile,minority
+German,Colombia,minority
+German,Paraguay,minority
+German,Peru,minority
+German,Venezuela,minority
+Greek,Greece,official
+Greek,Cyprus,official
+Greek,Albania,minority
+Greek,Lebanon,minority
+Greek,North Macedonia,minority
+Greek,Russia,minority
+Greek,Ukraine,minority
+Greek,Turkey,minority
+Greek,Egypt,minority
+Greek,Italy,minority
+Greek,Armenia,minority
+Greek,Romania,minority
+Greek,Hungary,minority
+Greek,Syria,minority
+Greek,United States,minority
+Greek,Australia,minority
+Balochi,Afghanistan,minority
+Balochi,Bahrain,minority
+Balochi,Iran,regional
+Balochi,Oman,minority
+Balochi,Pakistan,regional
+Balochi,United Arab Emirates,minority
+Persian,Afghanistan,official
+Persian,Bahrain,minority
+Persian,Germany,minority
+Persian,Iran,official
+Persian,Iraq,minority
+Persian,Kazakhstan,minority
+Persian,Kyrgyzstan,minority
+Persian,Pakistan,minority
+Persian,Tajikistan,official
+Persian,Russia,minority
+Persian,Qatar,minority
+Persian,United Arab Emirates,minority
+Persian,United States,minority
+Persian,Uzbekistan,minority
+Ossetic,Russia,regional
+Ossetic,South Ossetia,majority
+Ossetic,Georgia,minority
+Caucasian Tat,Russia,regional
+Caucasian Tat,Azerbaijan,minority
+Tajik,Kazakhstan,minority
+Tajik,Kyrgyzstan,minority
+Tajik,Pakistan,minority
+Tajik,Tajikistan,official
+Tajik,Russia,minority
+Kurdish,Armenia,minority
+Kurdish,Iran,regional
+Kurdish,Iraq,official
+Kurdish,Syria,minority
+Kurdish,Turkey,minority
+Gilan,Iran,regional
+Talysh,Azerbaijan,minority
+Talysh,Iran,minority
+Pashto,Afghanistan,official
+Pashto,Pakistan,regional
+Pashto,United Arab Emirates,minority
+Bengali,Bangladesh,official
+Bengali,India,official
+Bengali,Saudi Arabia,minority
+Bengali,United Arab Emirates,minority
+Bengali,Qatar,minority
+Bengali,Kuwait,minority
+Bengali,Malaysia,minority
+Bengali,Singapore,minority
+Bengali,Pakistan,minority
+Bengali,Italy,minority
+Bengali,United Kingdom,minority
+Bengali,United States,minority
+Bengali,Canada,minority
+Bengali,Australia,minority
+Domari,Algeria,minority
+Domari,Egypt,minority
+Domari,Morocco,minority
+Domari,Sudan,minority
+Domari,Tunisia,minority
+Domari,India,minority
+Domari,Iran,minority
+Domari,Pakistan,minority
+Domari,Libya,minority
+Domari,Syria,minority
+Domari,Turkey,minority
+Domari,Israel,minority
+Domari,Afghanistan,minority
+Domari,Bangladesh,minority
+Domari,Jordan,minority
+Domari,Iraq,minority
+Domari,Lebanon,minority
+Domari,Uzbekistan,minority
+Domari,Armenia,minority
+Domari,Azerbaijan,minority
+Domari,Georgia,minority
+Domari,Turkmenistan,minority
+Domari,Kazakhstan,minority
+Domari,Tajikistan,minority
+Domari,Kuwait,minority
+Domari,Kyrgyzstan,minority
+Domari,Russia,minority
+Romani,Bangladesh,minority
+Romani,India,minority
+Romani,Pakistan,minority
+Romani,Iran,minority
+Romani,Afghanistan,minority
+Romani,Uzbekistan,minority
+Romani,Kazakhstan,minority
+Romani,Turkmenistan,minority
+Romani,Tajikistan,minority
+Romani,Kyrgyzstan,minority
+Romani,Armenia,minority
+Romani,Albania,minority
+Romani,Austria,minority
+Romani,Belarus,minority
+Romani,Belgium,minority
+Romani,Bosnia and Herzegovina,minority
+Romani,Bulgaria,minority
+Romani,Croatia,minority
+Romani,Cyprus,minority
+Romani,Czech Republic,minority
+Romani,Denmark,minority
+Romani,Estonia,minority
+Romani,Finland,minority
+Romani,France,minority
+Romani,Germany,minority
+Romani,Greece,minority
+Romani,Hungary,minority
+Romani,Ireland,minority
+Romani,Italy,minority
+Romani,Kosovo,minority
+Romani,Latvia,minority
+Romani,Lithuania,minority
+Romani,Macedonia,regional
+Romani,Moldova,minority
+Romani,Montenegro,minority
+Romani,Netherlands,minority
+Romani,Norway,minority
+Romani,Poland,minority
+Romani,Portugal,minority
+Romani,Romania,regional
+Romani,Russia,minority
+Romani,Serbia,minority
+Romani,Slovakia,minority
+Romani,Slovenia,minority
+Romani,Spain,minority
+Romani,Sweden,minority
+Romani,Switzerland,minority
+Romani,Turkey,minority
+Romani,Ukraine,minority
+Romani,United Kingdom,minority
+Romani,United States,minority
+Romani,Canada,minority
+Hindi,India,official
+Hindi,Bangladesh,de facto
+Hindi,Indonesia,minority
+Hindi,Malaysia,minority
+Hindi,Nepal,minority
+Hindi,Pakistan,de facto
+Hindi,Yemen,minority
+Hindi,United Arab Emirates,minority
+Hindi,Saudi Arabia,minority
+Hindi,Fiji,official
+Hindi,Australia,minority
+Hindi,New Zealand,minority
+Hindi,South Africa,minority
+Hindi,Mauritius,minority
+Hindi,Tanzania,minority
+Hindi,Uganda,minority
+Hindi,United Kingdom,minority
+Hindi,Canada,minority
+Hindi,United States,minority
+Hindi,Suriname,minority
+Hindi,Guyana,minority
+Hindi,Trinidad and Tobago,minority
+Gujarati,India,regional
+Gujarati,Pakistan,minority
+Gujarati,Kenya,minority
+Gujarati,Mauritius,minority
+Gujarati,Tanzania,minority
+Gujarati,Uganda,minority
+Gujarati,Zimbabwe,minority
+Gujarati,South Africa,minority
+Gujarati,Canada,minority
+Gujarati,United States,minority
+Gujarati,United Kingdom,minority
+Gujarati,Australia,minority
+Angika,India,regional
+Angika,Nepal,regional
+Assamese,Bhutan,minority
+Assamese,India,official
+Assamese,United Kingdom,minority
+Assamese,United States,minority
+Awadhi,Bhutan,minority
+Awadhi,Guyana,minority
+Awadhi,Fiji,minority
+Awadhi,India,regional
+Awadhi,Nepal,minority
+Awadhi,Trinidad and Tobago,minority
+Awadhi,South Africa,minority
+Awadhi,Suriname,minority
+Awadhi,United States,minority
+Bhili,India,minority
+Bhojpuri,Fiji,minority
+Bhojpuri,Guyana,minority
+Bhojpuri,India,regional
+Bhojpuri,Mauritius,minority
+Bhojpuri,Nepal,minority
+Bhojpuri,United Kingdom,minority
+Bhojpuri,United States,minority
+Bhojpuri,Suriname,minority
+Bhojpuri,Trinidad and Tobago,minority
+Bhojpuri,Seychelles,minority
+Bhojpuri,South Africa,minority
+Bhojpuri,Australia,minority
+Bishnupriya Manipuri,Bangladesh,minority
+Bishnupriya Manipuri,India,regional
+Bishnupriya Manipuri,Myanmar,minority
+Chakma,Bangladesh,minority
+Chakma,India,minority
+Chhattisgarhi,India,minority
+Chittagonian,Bangladesh,minority
+Chittagonian,Myanmar,minority
+Chittagonian,Oman,minority
+Chittagonian,Saudi Arabia,minority
+Chittagonian,United Arab Emirates,minority
+Chittagonian,Qatar,minority
+Chittagonian,Kuwait,minority
+Chittagonian,Pakistan,minority
+Chittagonian,United Kingdom,minority
+Chittagonian,United States,minority
+Dhivehi,India,regional
+Dhivehi,Maldives,official
+Dogri,Pakistan,regional
+Dogri,India,regional
+Hajong,India,minority
+Hajong,Bangladesh,minority
+Halbi,India,regional
+Kalasha-ala,Afghanistan,minority
+Kalasha-mun,Pakistan,minority
+Kashmiri,India,official
+Kashmiri,Pakistan,regional
+Kashmiri,United Kingdom,minority
+Khandeshi,India,regional
+Khowar,Pakistan,regional
+Kumaoni(Doteli),India,regional
+Kumaoni(Doteli),Nepal,regional
+Lomavren,Armenia,minority
+Lomavren,Azerbaijan,minority
+Lomavren,Bulgaria,minority
+Lomavren,Georgia,minority
+Lomavren,Iran,minority
+Lomavren,Russia,minority
+Lomavren,Syria,minority
+Magadhi,India,regional
+Maithili,India,regional
+Maithili,Nepal,regional
+Mal Paharia,India,minority
+Mal Paharia,Bangladesh,minority
+Marathi,India,official
+Marathi,Pakistan,minority
+Marathi,Israel,minority
+Marathi,Mauritius,minority
+Marathi,Singapore,minority
+Marathi,United States,minority
+Marathi,United Kingdom,minority
+Marathi,Australia,minority
+Marathi,New Zealand,minority
+Marathi,South Africa,minority
+Marathi,United Arab Emirates,minority
+Marathi,Bahrain,minority
+Marwari,India,regional
+Marwari,Pakistan,minority
+Nepali,Bhutan,unofficial
+Nepali,Hong Kong,unofficial
+Nepali,India,regional
+Nepali,Myanmar,unofficial
+Nepali,Nepal,official
+Nepali,United Kingdom,unofficial
+Oriya,Bangladesh,minority
+Oriya,India,regional
+Punjabi,India,regional
+Punjabi,Pakistan,regional
+Punjabi,United Kingdom,minority
+Punjabi,Canada,minority
+Punjabi,United States,minority
+Rajasthani,India,regional
+Rajasthani,Pakistan,minority
+Rajbanshi,India,minority
+Rajbanshi,Bangladesh,minority
+Rajbanshi,Nepal,minority
+Rohingya,Bangladesh,minority
+Rohingya,India,minority
+Rohingya,Malaysia,minority
+Rohingya,Myanmar,minority
+Rohingya,Oman,minority
+Rohingya,Pakistan,minority
+Rohingya,Saudi Arabia,minority
+Rohingya,Thailand,minority
+Rohingya,United Arab Emirates,minority
+Sindhi,Hong Kong,minority
+Sindhi,India,official
+Sindhi,Oman,minority
+Sindhi,Pakistan,regional
+Sindhi,Philippines,minority
+Sindhi,Singapore,minority
+Sindhi,United Arab Emirates,minority
+Sindhi,United Kingdom,minority
+Sindhi,United States,minority
+Sinhala,Sri Lanka,official
+Sylheti,Bangladesh,regional
+Sylheti,India,regional
+Sylheti,Taiwan,minority
+Sylheti,United Kingdom,minority
+Sylheti,United States,minority
+Sylheti,United Arab Emirates,minority
+Tanchangya,Bangladesh,regional
+Tanchangya,India,regional
+Tanchangya,Myanmar,regional
+Urdu,Bahrain,minority
+Urdu,Bangladesh,minority
+Urdu,Fiji,official
+Urdu,India,official
+Urdu,Nepal,minority
+Urdu,Mauritius,minority
+Urdu,Oman,minority
+Urdu,Pakistan,official
+Urdu,Qatar,minority
+Urdu,Saudi Arabia,minority
+Urdu,South Africa,minority
+Urdu,United Arab Emirates,minority
+Urdu,United Kingdom,minority
+Urdu,United States,minority
+French,Andorra,de facto
+French,Belgium,official
+French,France,official
+French,Italy,regional
+French,Luxembourg,official
+French,Monaco,official
+French,Switzerland,official
+French,Algeria,de facto
+French,Benin,official
+French,Burkina Faso,official
+French,Burundi,official
+French,Cameroon,official
+French,Central African Republic,official
+French,Chad,official
+French,Comoros,official
+French,Dem. Rep. Congo,official
+French,Congo,official
+French,Ivory Coast,official
+French,Djibouti,official
+French,Equatorial Guinea,official
+French,Gabon,official
+French,Guinea,official
+French,Madagascar,official
+French,Mali,official
+French,Mauritania,de facto
+French,Mauritius,de facto
+French,Morocco,de facto
+French,Niger,official
+French,Réunion,official
+French,Rwanda,official
+French,Senegal,de facto
+French,Seychelles,official
+French,Togo,official
+French,Tunisia,de facto
+French,Cambodia,minority
+French,Vietnam,minority
+French,Laos,administrative language
+French,Lebanon,de facto
+French,India,regional
+French,Jordan,minority
+French,Canada,regional
+French,Guadeloupe,official
+French,Haiti,official
+French,Mexico,minority
+French,Martinique,official
+French,Saint Barthélemy,official
+French,Saint Martin,official
+French,Saint Pierre and Miquelon,official
+French,United States,minority
+French,French Polynesia,official
+French,New Caledonia,official
+French,Vanuatu,official
+French,Wallis and Futuna,official
+French,Argentina,minority
+French,Brazil,minority
+French,Chile,minority
+French,French Guiana,official
+French,Uruguay,minority
+Italian,Albania,de facto
+Italian,Belgium,minority
+Italian,Croatia,regional
+Italian,France,regional
+Italian,Germany,minority
+Italian,Greece,minority
+Italian,Italy,official
+Italian,Luxembourg,minority
+Italian,Malta,de facto
+Italian,Monaco,de facto
+Italian,San Marino,official
+Italian,Slovenia,official
+Italian,Switzerland,official
+Italian,Vatican City,official
+Italian,Eritrea,minority
+Italian,Libya,minority
+Italian,Somalia,minority
+Italian,Argentina,minority
+Italian,Brazil,regional
+Italian,Canada,minority
+Italian,Chile,minority
+Italian,Mexico,minority
+Italian,Peru,minority
+Italian,United States,minority
+Italian,Uruguay,minority
+Italian,Venezuela,minority
+Italian,Australia,minority
+Portugese,Portugal,official
+Portugese,Spain,minority
+Portugese,France,minority
+Portugese,Luxembourg,minority
+Portugese,Switzerland,minority
+Portugese,Andorra,minority
+Portugese,Germany,minority
+Portugese,Angola,official
+Portugese,Cape Verde,official
+Portugese,Guinea-Bissau,official
+Portugese,Equatorial Guinea,official
+Portugese,Mozambique,official
+Portugese,São Tomé and Príncipe,official
+Portugese,South Africa,minority
+Portugese,Namibia,minority
+Portugese,East Timor,official
+Portugese,Japan,minority
+Portugese,Macau,official
+Portugese,Malaysia,regional
+Portugese,India,regional
+Portugese,United States,minority
+Portugese,Canada,minority
+Portugese,Brazil,official
+Portugese,Paraguay,minority
+Portugese,Uruguay,minority
+Portugese,Venezuela,minority
+Portugese,East Timor,official
+Portugese,Australia,minority
+Spanish,Spain,official
+Spanish,Andorra,majority
+Spanish,France,minority
+Spanish,Germany,minority
+Spanish,Gibraltar,de facto
+Spanish,Italy,minority
+Spanish,United Kingdom,minority
+Spanish,Equatorial Guinea,official
+Spanish,Morocco,minority
+Spanish,Western Sahara,official
+Spanish,Ceuta,official
+Spanish,Melilla,official
+Spanish,Canary Islands,official
+Spanish,"Gabon, Cocobeach",official
+Spanish,Australia,minority
+Spanish,Japan,minority
+Spanish,New Zealand,minority
+Spanish,Philippines,minority
+Spanish,Belize,de facto
+Spanish,Costa Rica,official
+Spanish,Cuba,official
+Spanish,Dominican Republic,official
+Spanish,El Salvador,official
+Spanish,Guatemala,official
+Spanish,Honduras,official
+Spanish,Mexico,official
+Spanish,Nicaragua,official
+Spanish,Panama,official
+Spanish,United States,minority
+Spanish,Argentina,de facto
+Spanish,Bolivia,official
+Spanish,Brazil,minority
+Spanish,Chile,official
+Spanish,Colombia,official
+Spanish,Ecuador,official
+Spanish,Paraguay,official
+Spanish,Peru,official
+Spanish,Uruguay,official
+Spanish,Venezuela,official
+Spanish,Easter Island,official
+Catalan,Andorra,official
+Catalan,France,regional
+Catalan,Italy,regional
+Catalan,Spain,regional
+Corsican,France,regional
+Corsican,Italy,minority
+Sardinian,Italy,regional
+Galician,Spain,official
+Galician,Argentina,minority
+Galician,Mexico,minority
+Galician,Brazil,minority
+Galician,Cuba,minority
+Galician,France,minority
+Galician,Germany,minority
+Galician,Switzerland,minority
+Galician,Uruguay,minority
+Galician,Venezuela,minority
+Jèrriais,Jersey,unofficial
+Jèrriais,Sark,unofficial
+Latin,Vatican City,official
+Mirandese,Portugal,official
+Occitan,France,minority
+Occitan,Italy,minority
+Occitan,Spain,official
+Romanian,Bulgaria,minority
+Romanian,Italy,minority
+Romanian,Moldova,official
+Romanian,Romania,official
+Romanian,Spain,minority
+Romanian,Serbia,regional
+Romansh,Switzerland,official
+Belarusian,Belarus,official
+Belarusian,Lithuania,minority
+Belarusian,Poland,minority
+Belarusian,Russia,minority
+Bosnian,Bosnia and Herzegovina,official
+Bosnian,Croatia,minority
+Bosnian,Macedonia,minority
+Bosnian,Montenegro,minority
+Bosnian,Serbia,regional
+Bosnian,Turkey,minority
+Bulgarian,Bulgaria,official
+Bulgarian,Greece,minority
+Bulgarian,Macedonia,minority
+Bulgarian,Moldova,minority
+Bulgarian,Romania,minority
+Bulgarian,Serbia,minority
+Bulgarian,Turkey,minority
+Bulgarian,Ukraine,minority
+Croatian,Austria,official
+Croatian,Bosnia and Herzegovina,official
+Croatian,Croatia,official
+Croatian,Italy,regional
+Croatian,Montenegro,minority
+Croatian,Romania,regional
+Croatian,Serbia,regional
+Czech,Austria,minority
+Czech,Croatia,minority
+Czech,Czech Republic,official
+Czech,Germany,minority
+Czech,Slovakia,minority
+Kashubian,Poland,regional
+Macedonian,Albania,regional
+Macedonian,Macedonia,official
+Macedonian,Greece,minority
+Macedonian,Bulgaria,minority
+Macedonian,Serbia,regional
+Macedonian,Kosovo,minority
+Macedonian,Romania,minority
+Montenegrin,Albania,minority
+Montenegrin,Croatia,minority
+Montenegrin,Montenegro,official
+Montenegrin,Serbia,regional
+Montenegrin,Kosovo,minority
+Montenegrin,Macedonia,minority
+Polish,Belarus,minority
+Polish,Lithuania,minority
+Polish,Poland,official
+Polish,Ukraine,minority
+Polish,Brazil,minority
+Polish,Ireland,minority
+Polish,United States,minority
+Russian,Armenia,minority
+Russian,Azerbaijan,minority
+Russian,Belarus,official
+Russian,Bulgaria,minority
+Russian,China,minority
+Russian,Cyprus,minority
+Russian,Estonia,minority
+Russian,Finland,minority
+Russian,Georgia,minority
+Russian,Germany,minority
+Russian,Greece,minority
+Russian,Israel,minority
+Russian,Jordan,minority
+Russian,Kazakhstan,official
+Russian,North Korea,minority
+Russian,Kyrgyzstan,official
+Russian,Latvia,minority
+Russian,Lithuania,minority
+Russian,Transnistria,official
+Russian,Mongolia,minority
+Russian,Moldova,regional
+Russian,Norway,minority
+Russian,Poland,minority
+Russian,Romania,minority
+Russian,Russia,official
+Russian,Serbia,minority
+Russian,Turkey,minority
+Russian,Tajikistan,minority
+Russian,Turkmenistan,minority
+Russian,Ukraine,regional
+Russian,Uzbekistan,minority
+Rusyn,Hungary,minority
+Rusyn,Poland,minority
+Rusyn,Romania,minority
+Rusyn,Slovakia,minority
+Rusyn,Ukraine,regional
+Rusyn,Serbia,regional
+Serbian,Bosnia and Herzegovina,official
+Serbian,Croatia,minority
+Serbian,Kosovo,official
+Serbian,Macedonia,minority
+Serbian,Montenegro,minority
+Serbian,Romania,regional
+Serbian,Serbia,official
+Slovak,Czech Republic,official
+Slovak,Slovakia,official
+Slovene,Austria,minority
+Slovene,Croatia,minority
+Slovene,Hungary,minority
+Slovene,Italy,regional
+Slovene,Slovenia,official
+Slovene,United States,minority
+"Sorbian, Lower",Germany,regional
+"Sorbian, Upper",Germany,regional
+Ukrainian,Argentina,minority
+Ukrainian,Belarus,minority
+Ukrainian,Brazil,minority
+Ukrainian,Canada,minority
+Ukrainian,Hungary,minority
+Ukrainian,Kazakhstan,minority
+Ukrainian,Kyrgyzstan,minority
+Ukrainian,Moldova,minority
+Ukrainian,Slovakia,minority
+Ukrainian,Poland,minority
+Ukrainian,Romania,minority
+Ukrainian,Russia,minority
+Ukrainian,Transnistria,official
+Ukrainian,Ukraine,official
+Ukrainian,United Kingdom,minority
+Ukrainian,United States,minority
+Ukrainian,Uzbekistan,minority
+Mongolian,Mongolia,official
+Mongolian,China,regional
+Kalmyk Oirat,Russia,regional
+Daur,China,regional
+Azerbaijani,Azerbaijan,official
+Azerbaijani,Iran,official
+Azerbaijani,Iraq,minority
+Azerbaijani,Georgia,regional
+Azerbaijani,Russia,regional
+Azerbaijani,Syria,minority
+Azerbaijani,Turkey,regional
+Azerbaijani,Ukraine,minority
+Azerbaijani,Belarus,minority
+Uyghur,China,regional
+Uyghur,Kazakhstan,minority
+Uzbek,Afghanistan,minority
+Uzbek,China,minority
+Uzbek,Kyrgyzstan,minority
+Uzbek,Russia,minority
+Uzbek,Tajikistan,minority
+Uzbek,Turkmenistan,minority
+Uzbek,Uzbekistan,official
+Kazakh,Afghanistan,minority
+Kazakh,China,regional
+Kazakh,Iran,minority
+Kazakh,Kazakhstan,official
+Kazakh,Mongolia,minority
+Kazakh,Russia,minority
+Kazakh,Tajikistan,minority
+Kazakh,Turkey,minority
+Kazakh,Turkmenistan,minority
+Kazakh,Ukraine,minority
+Kazakh,Uzbekistan,minority
+Kyrgyz,Afghanistan,minority
+Kyrgyz,China,minority
+Kyrgyz,Kyrgyzstan,official
+Kyrgyz,Pakistan,minority
+Kyrgyz,Tajikistan,minority
+Turkish,Turkey,official
+Turkish,Cyprus,official
+Turkish,Iran,minority
+Turkish,Iraq,minority
+Turkish,Kosovo,minority
+Turkish,Macedonia,minority
+Turkish,Romania,minority
+Turkish,Bulgaria,minority
+Turkish,Greece,minority
+Turkish,Germany,minority
+Turkish,Netherlands,minority
+Turkish,Israel,minority
+Turkish,Austria,minority
+Turkish,Denmark,minority
+Turkish,Sweden,minority
+Turkish,Belgium,minority
+Turkish,United Kingdom,minority
+Turkish,New Zealand,minority
+Turkish,Switzerland,minority
+Turkish,Poland,minority
+Turkish,Ukraine,minority
+Turkish,France,minority
+Turkish,Canada,minority
+Turkish,United States,minority
+Turkish,Australia,minority
+Turkish,Ireland,minority
+Turkish,Norway,minority
+Turkmen,Turkmenistan,official
+Turkmen,Iraq,regional
+Turkmen,Iran,minority
+Turkmen,Afghanistan,minority
+Turkmen,Russia,regional
+Turkmen,Turkey,minority
+Gagauz,Găgăuzia,regional
+Gagauz,Moldova,minority
+Gagauz,Ukraine,minority
+Tatar,Tatarstan,official
+Tatar,Russia,minority
+Tatar,Turkey,minority
+Crimean Tatar,Ukraine,minority
+Crimean Tatar,Romania,minority
+Crimean Tatar,Turkey,minority
+Siberian Tatar,Russia,regional
+Arabic,Algeria,official
+Arabic,Comoros,official
+Arabic,Chad,official
+Arabic,Djibouti,official
+Arabic,Egypt,official
+Arabic,Eritrea,official
+Arabic,Libya,official
+Arabic,Mauritania,official
+Arabic,Morocco,official
+Arabic,Somalia,official
+Arabic,Sudan,official
+Arabic,Tunisia,official
+Arabic,Western Sahara,official
+Arabic,Afghanistan,regional
+Arabic,Bahrain,official
+Arabic,Iran,regional
+Arabic,Iraq,official
+Arabic,Israel,minority
+Arabic,Jordan,official
+Arabic,Kuwait,official
+Arabic,Lebanon,official
+Arabic,Oman,official
+Arabic,Pakistan,religious
+Arabic,Palestine,official
+Arabic,Philippines,religious
+Arabic,Qatar,official
+Arabic,Saudi Arabia,official
+Arabic,Syria,official
+Arabic,United Arab Emirates,official
+Arabic,Yemen,official
+Arabic,France,minority
+Arabic,Germany,minority
+Arabic,Italy,minority
+Arabic,Netherlands,minority
+Arabic,Spain,minority
+Arabic,Sweden,minority
+Arabic,Turkey,minority
+Arabic,United Kingdom,minority
+Arabic,Australia,minority
+Arabic,Canada,minority
+Arabic,United States,minority
+Arabic,Argentina,minority
+Arabic,Brazil,minority
+Arabic,Venezuela,minority
+Amharic,Ethiopia,official
+Hebrew,Israel,official
+Maltese,Malta,official
+Maltese,Australia,minority
+Maltese,Canada,minority
+Maltese,Italy,minority
+Maltese,United States,minority
+Tigrinya,Eritrea,official
+Tigrinya,Ethiopia,minority
+Badaga,India,minority
+Brahui,Pakistan,regional
+Brahui,Iran,minority
+Brahui,Afghanistan,minority
+Brahui,Turkmenistan,minority
+Chenchu,India,minority
+Duruwa,India,minority
+Gondi,India,minority
+Kannada,India,regional
+Kannada,United States,minority
+Kolami,India,minority
+Koraga,India,minority
+Kota,India,minority
+Koya,India,minority
+Kui,India,minority
+Kumarbhag Paharia,India,minority
+Kurukh,Bangladesh,minority
+Kurukh,India,minority
+Maria,India,minority
+Nagarchal,India,minority
+Pardhan,India,minority
+Sauria Paharia,India,minority
+Sauria Paharia,Bangladesh,minority
+Toda,India,minority
+Telugu,India,regional
+Telugu,Mauritius,minority
+Telugu,Denmark,minority
+Telugu,Germany,minority
+Telugu,Ireland,minority
+Telugu,Poland,minority
+Telugu,Sweden,minority
+Telugu,Russia,minority
+Telugu,Malaysia,minority
+Telugu,Myanmar,minority
+Telugu,Saudi Arabia,minority
+Telugu,Sri Lanka,minority
+Telugu,United Arab Emirates,minority
+Telugu,Australia,minority
+Telugu,New Zealand,minority
+Telugu,Canada,minority
+Telugu,United States,minority
+Telugu,Trinidad and Tobago,minority
+Telugu,Guyana,minority
+Telugu,Suriname,minority
+Telugu,Guadeloupe,minority
+Telugu,Martinique,minority
+Tamil,India,regional
+Tamil,Sri Lanka,official
+Tamil,Singapore,official
+Tamil,Australia,minority
+Tamil,Bahrain,minority
+Tamil,Canada,minority
+Tamil,Fiji,minority
+Tamil,France,minority
+Tamil,Germany,minority
+Tamil,Malaysia,minority
+Tamil,Mauritius,minority
+Tamil,Myanmar,minority
+Tamil,New Zealand,minority
+Tamil,Oman,minority
+Tamil,South Africa,minority
+Tamil,Thailand,minority
+Tamil,United Kingdom,minority
+Tamil,United States,minority
+Tamil,Trinidad and Tobago,minority
+Tamil,Guyana,minority
+Tamil,Suriname,minority
+Tamil,Guadeloupe,minority
+Tamil,Martinique,minority
+Malayalam,India,regional
+Malayalam,United Arab Emirates,minority
+Malayalam,Australia,minority
+Malayalam,Bahrain,minority
+Malayalam,Canada,minority
+Malayalam,Kuwait,minority
+Malayalam,Malaysia,minority
+Malayalam,New Zealand,minority
+Malayalam,Oman,minority
+Malayalam,Qatar,minority
+Malayalam,Saudi Arabia,minority
+Malayalam,Singapore,minority
+Malayalam,United Kingdom,minority
+Malayalam,United States,minority
+Tulu,Bahrain,minority
+Tulu,India,minority
+Tulu,Kuwait,minority
+Tulu,Oman,minority
+Tulu,Qatar,minority
+Tulu,Saudi Arabia,minority
+Tulu,United Arab Emirates,minority
+Tulu,United States,minority
+Kodava,India,minority
+Ollari,India,minority
+Japanese,Japan,official
+Japanese,Philippines,minority
+Japanese,France,minority
+Japanese,Brazil,minority
+Japanese,Peru,minority
+Japanese,United States,minority
+Japanese,Palau,regional
+Japanese,Taiwan,minority
+Ryukyuan,Brazil,minority
+Ryukyuan,Japan,minority
+Ryukyuan,Taiwan,minority
+Korean,Australia,minority
+Korean,Brazil,minority
+Korean,Canada,minority
+Korean,China,minority
+Korean,Japan,minority
+Korean,North Korea,official
+Korean,Philippines,minority
+Korean,South Korea,official
+Korean,Taiwan,minority
+Korean,United States,minority
+Jeju,South Korea,regional
+Basque,France,regional
+Basque,Spain,official
+Basque,Venezuela,minority
+Nihali,India,minority
+Georgian,Georgia,official
+Georgian,Turkey,minority
+Georgian,Iran,minority
+Georgian,Azerbaijan,minority
+Mingrelian language,Georgia,significant language
+Mingrelian language,Abkhazia,significant language
+Svan language,Georgia,minority
+Laz language,Turkey,significant language
+Laz language,Georgia,minority
+Burmese,Myanmar,official
+Burmese,Malaysia,minority
+Burmese,Singapore,minority
+Burmese,Thailand,minority
+Dzongkha,Bhutan,official
+Tibetan,China,regional
+Tibetan,Nepal,regional
+Tibetan,India,minority
+Hani,China,regional
+Hani,Vietnam,regional
+Hani,Laos,minority
+Karen,Australia,minority
+Karen,Myanmar,minority
+Karen,Thailand,minority
+Karen,United States,minority
+Lahu,China,regional
+Lahu,Laos,minority
+Lahu,Myanmar,minority
+Lahu,Thailand,minority
+Lahu,United States,minority
+Lahu,Vietnam,minority
+Meithei,India,regional
+"Nuosu (Yi, Lolo)",China,regional
+"Nuosu (Yi, Lolo)",Vietnam,minority
+Cantonese,Angola,minority
+Cantonese,Cape Verde,minority
+Cantonese,Mauritius,minority
+Cantonese,South Africa,minority
+Cantonese,Brunei,minority
+Cantonese,Cambodia,minority
+Cantonese,China,regional
+Cantonese,Hong Kong,official
+Cantonese,Indonesia,minority
+Cantonese,Japan,minority
+Cantonese,North Korea,minority
+Cantonese,South Korea,minority
+Cantonese,Laos,minority
+Cantonese,Macau,official
+Cantonese,Malaysia,minority
+Cantonese,Myanmar,minority
+Cantonese,Philippines,minority
+Cantonese,Singapore,minority
+Cantonese,Thailand,minority
+Cantonese,Vietnam,minority
+Cantonese,Bulgaria,minority
+Cantonese,France,minority
+Cantonese,Germany,minority
+Cantonese,Ireland,minority
+Cantonese,Italy,minority
+Cantonese,Netherlands,minority
+Cantonese,Romania,minority
+Cantonese,Russia,minority
+Cantonese,Serbia,minority
+Cantonese,Spain,minority
+Cantonese,United Kingdom,minority
+Cantonese,Canada,minority
+Cantonese,Cuba,minority
+Cantonese,Dominican Republic,minority
+Cantonese,Jamaica,minority
+Cantonese,Mexico,minority
+Cantonese,Nicaragua,minority
+Cantonese,Panama,minority
+Cantonese,Trinidad and Tobago,minority
+Cantonese,United States,minority
+Cantonese,Australia,minority
+Cantonese,Fiji,minority
+Cantonese,New Zealand,minority
+Cantonese,Samoa,minority
+Cantonese,Tonga,minority
+Cantonese,Argentina,minority
+Cantonese,Brazil,minority
+Cantonese,Chile,regional
+Cantonese,Guyana,minority
+Cantonese,Suriname,minority
+Cantonese,Peru,minority
+Cantonese,Suriname,minority
+Cantonese,Venezuela,minority
+Taishanese,South Africa,minority
+Taishanese,China,regional
+Taishanese,Indonesia,minority
+Taishanese,Malaysia,minority
+Taishanese,Philippines,minority
+Taishanese,Singapore,minority
+Taishanese,Thailand,minority
+Taishanese,Vietnam,minority
+Taishanese,United Kingdom,minority
+Taishanese,Canada,minority
+Taishanese,United States,minority
+Taishanese,Australia,minority
+Taishanese,New Zealand,minority
+Taishanese,Brazil,minority
+Taishanese,Peru,minority
+Taishanese,Venezuela,minority
+Hakka,Angola,minority
+Hakka,Cape Verde,minority
+Hakka,Mauritius,minority
+Hakka,South Africa,minority
+Hakka,Brunei,minority
+Hakka,Cambodia,minority
+Hakka,China,regional
+Hakka,Hong Kong,minority
+Hakka,Indonesia,minority
+Hakka,Japan,minority
+Hakka,North Korea,minority
+Hakka,South Korea,minority
+Hakka,Laos,minority
+Hakka,Macau,minority
+Hakka,Malaysia,minority
+Hakka,Myanmar,minority
+Hakka,Philippines,minority
+Hakka,Singapore,minority
+Hakka,Taiwan,official
+Hakka,Thailand,minority
+Hakka,Vietnam,minority
+Hakka,Bulgaria,minority
+Hakka,France,minority
+Hakka,Germany,minority
+Hakka,Ireland,minority
+Hakka,Italy,minority
+Hakka,Netherlands,minority
+Hakka,Romania,minority
+Hakka,Russia,minority
+Hakka,Serbia,minority
+Hakka,Spain,minority
+Hakka,United Kingdom,minority
+Hakka,Canada,minority
+Hakka,Cuba,minority
+Hakka,Dominican Republic,minority
+Hakka,Jamaica,minority
+Hakka,Mexico,minority
+Hakka,Nicaragua,minority
+Hakka,Panama,minority
+Hakka,Trinidad and Tobago,minority
+Hakka,United States,minority
+Hakka,Australia,minority
+Hakka,Fiji,minority
+Hakka,New Zealand,minority
+Hakka,Samoa,minority
+Hakka,Tonga,minority
+Hakka,Argentina,minority
+Hakka,Brazil,minority
+Hakka,Chile,regional
+Hakka,Guyana,minority
+Hakka,Peru,minority
+Hakka,Suriname,minority
+Mandarin (Standard Chinese),Angola,minority
+Mandarin (Standard Chinese),Cape Verde,minority
+Mandarin (Standard Chinese),Mauritius,minority
+Mandarin (Standard Chinese),South Africa,minority
+Mandarin (Standard Chinese),Brunei,minority
+Mandarin (Standard Chinese),Cambodia,minority
+Mandarin (Standard Chinese),China,official
+Mandarin (Standard Chinese),Hong Kong,minority
+Mandarin (Standard Chinese),Indonesia,minority
+Mandarin (Standard Chinese),Japan,minority
+Mandarin (Standard Chinese),North Korea,minority
+Mandarin (Standard Chinese),South Korea,minority
+Mandarin (Standard Chinese),Laos,minority
+Mandarin (Standard Chinese),Macau,minority
+Mandarin (Standard Chinese),Malaysia,minority
+Mandarin (Standard Chinese),Myanmar,minority
+Mandarin (Standard Chinese),Philippines,minority
+Mandarin (Standard Chinese),Singapore,official
+Mandarin (Standard Chinese),Taiwan,official
+Mandarin (Standard Chinese),Thailand,minority
+Mandarin (Standard Chinese),Vietnam,minority
+Mandarin (Standard Chinese),Bulgaria,minority
+Mandarin (Standard Chinese),France,minority
+Mandarin (Standard Chinese),Germany,minority
+Mandarin (Standard Chinese),Ireland,minority
+Mandarin (Standard Chinese),Italy,minority
+Mandarin (Standard Chinese),Netherlands,minority
+Mandarin (Standard Chinese),Romania,minority
+Mandarin (Standard Chinese),Russia,minority
+Mandarin (Standard Chinese),Serbia,minority
+Mandarin (Standard Chinese),Spain,minority
+Mandarin (Standard Chinese),United Kingdom,minority
+Mandarin (Standard Chinese),Canada,minority
+Mandarin (Standard Chinese),Cuba,minority
+Mandarin (Standard Chinese),Dominican Republic,minority
+Mandarin (Standard Chinese),Jamaica,minority
+Mandarin (Standard Chinese),Mexico,minority
+Mandarin (Standard Chinese),Nicaragua,minority
+Mandarin (Standard Chinese),Panama,minority
+Mandarin (Standard Chinese),Puerto Rico,minority
+Mandarin (Standard Chinese),Trinidad and Tobago,minority
+Mandarin (Standard Chinese),United States,minority
+Mandarin (Standard Chinese),Australia,minority
+Mandarin (Standard Chinese),Fiji,minority
+Mandarin (Standard Chinese),New Zealand,minority
+Mandarin (Standard Chinese),Samoa,minority
+Mandarin (Standard Chinese),Tonga,minority
+Mandarin (Standard Chinese),Argentina,minority
+Mandarin (Standard Chinese),Brazil,minority
+Mandarin (Standard Chinese),Chile,regional
+Mandarin (Standard Chinese),Guyana,minority
+Mandarin (Standard Chinese),Peru,minority
+Mandarin (Standard Chinese),Suriname,minority
+Mandarin (Standard Chinese),Venezuela,minority
+Min/Min Nan,Angola,minority
+Min/Min Nan,Cape Verde,minority
+Min/Min Nan,Mauritius,minority
+Min/Min Nan,South Africa,minority
+Min/Min Nan,Brunei,minority
+Min/Min Nan,Cambodia,minority
+Min/Min Nan,China,regional
+Min/Min Nan,Hong Kong,minority
+Min/Min Nan,Indonesia,minority
+Min/Min Nan,Japan,minority
+Min/Min Nan,North Korea,minority
+Min/Min Nan,South Korea,minority
+Min/Min Nan,Laos,minority
+Min/Min Nan,Macau,minority
+Min/Min Nan,Malaysia,minority
+Min/Min Nan,Myanmar,minority
+Min/Min Nan,Philippines,minority
+Min/Min Nan,Singapore,minority
+Min/Min Nan,Taiwan,de facto
+Min/Min Nan,Thailand,minority
+Min/Min Nan,Vietnam,minority
+Min/Min Nan,Bulgaria,minority
+Min/Min Nan,France,minority
+Min/Min Nan,Germany,minority
+Min/Min Nan,Ireland,minority
+Min/Min Nan,Italy,minority
+Min/Min Nan,Netherlands,minority
+Min/Min Nan,Romania,minority
+Min/Min Nan,Russia,minority
+Min/Min Nan,Serbia,minority
+Min/Min Nan,Spain,minority
+Min/Min Nan,United Kingdom,minority
+Min/Min Nan,Canada,minority
+Min/Min Nan,Cuba,minority
+Min/Min Nan,Dominican Republic,minority
+Min/Min Nan,Jamaica,minority
+Min/Min Nan,Mexico,minority
+Min/Min Nan,Nicaragua,minority
+Min/Min Nan,Panama,minority
+Min/Min Nan,Trinidad and Tobago,minority
+Min/Min Nan,United States,minority
+Min/Min Nan,Australia,minority
+Min/Min Nan,Fiji,minority
+Min/Min Nan,New Zealand,minority
+Min/Min Nan,Samoa,minority
+Min/Min Nan,Tonga,minority
+Min/Min Nan,Argentina,minority
+Min/Min Nan,Brazil,minority
+Min/Min Nan,Chile,regional
+Min/Min Nan,Guyana,minority
+Min/Min Nan,Peru,minority
+Min/Min Nan,Suriname,minority
+Gaoyang,China,regional
+Hui,China,regional
+Jin,China,regional
+Hainanese,China,regional
+Pinghua,China,regional
+Wu,China,regional
+Wu,Hong Kong,minority
+Wu,United States,minority
+Wu,Canada,minority
+Xiang,China,regional
+Bajau,Indonesia,minority
+Bajau,Malaysia,minority
+Bajau,Philippines,minority
+Brunei Malay,Brunei,regional
+Brunei Malay,Malaysia,minority
+Coastal Kadazan,Malaysia,minority
+Iban,Malaysia,regional
+Iban,Brunei,minority
+Iban,Indonesia,minority
+Malagasy,Comoros,minority
+Malagasy,Madagascar,official
+Malagasy,Mayotte,minority
+Sama,Indonesia,minority
+Sama,Malaysia,minority
+Sama,Philippines,minority
+Yakan,Philippines,regional
+Aklanon,Philippines,regional
+Bantik,Indonesia,minority
+Bikol,Philippines,regional
+Bolinao,Philippines,regional
+Cebuano,Philippines,regional
+Cebuano,Saudi Arabia,minority
+Cebuano,United States,minority
+Cuyonon,Philippines,minority
+Hiligaynon,Philippines,regional
+Hiligaynon,United States,minority
+Ibanag,Philippines,regional
+Ifugao,Philippines,minority
+Ilocano,Philippines,regional
+Ilocano,United States,minority
+Iranun,Malaysia,minority
+Iranun,Philippines,regional
+Ivatan,Philippines,minority
+Kalinga,Philippines,minority
+Kamayo,Philippines,minority
+Kankana-ey,Philippines,minority
+Kapampangan,Philippines,regional
+Kinaray-a,Philippines,minority
+Maguindanao,Philippines,regional
+Maranao,Malaysia,minority
+Maranao,Philippines,regional
+Maranao,Saudi Arabia,minority
+Maranao,United States,minority
+Masbatenyo,Philippines,minority
+Pangasinan,Philippines,regional
+Romblomanon,Philippines,minority
+Sangirese,Indonesia,minority
+Sangirese,Philippines,minority
+Surigaonon,Philippines,regional
+Tagalog,Australia,minority
+Tagalog,Brunei,minority
+Tagalog,Canada,minority
+Tagalog,Guam,regional
+Tagalog,Hong Kong,minority
+Tagalog,Indonesia,minority
+Tagalog,Israel,minority
+Tagalog,Italy,minority
+Tagalog,Japan,minority
+Tagalog,Kuwait,minority
+Tagalog,Malaysia,minority
+Tagalog,New Zealand,minority
+Tagalog,Palau,regional
+Tagalog,Philippines,official
+Tagalog,Qatar,minority
+Tagalog,Saudi Arabia,minority
+Tagalog,Singapore,minority
+Tagalog,South Korea,minority
+Tagalog,Spain,minority
+Tagalog,Taiwan,minority
+Tagalog,Thailand,minority
+Tagalog,United Arab Emirates,minority
+Tagalog,United Kingdom,minority
+Tagalog,United States,minority
+Tao,Taiwan,minority
+Talaud,Indonesia,minority
+Tausug,Brunei,minority
+Tausug,Indonesia,minority
+Tausug,Malaysia,minority
+Tausug,Philippines,regional
+Tondano,Indonesia,minority
+Tonsawang,Indonesia,minority
+Tonsea,Indonesia,minority
+Waray,Philippines,regional
+Zambal,Philippines,regional
+Fijian,Fiji,official
+Carolinian,Northern Mariana Islands,official
+Carolinian,Guam,minority
+Chuukese,FS. Micronesia,regional
+Gilbertese,Fiji,minority
+Gilbertese,Kiribati,official
+Gilbertese,Nauru,minority
+Gilbertese,Solomon Islands,minority
+Gilbertese,Tuvalu,minority
+Gilbertese,Vanuatu,minority
+Kosraean,FS. Micronesia,regional
+Marshallese,Marshall Islands,official
+Nauruan,Nauru,official
+Pohnpeian,FS. Micronesia,regional
+Sosorolese,Palau,regional
+Tobian,Palau,regional
+Ulithian,FS. Micronesia,regional
+Yapese,FS. Micronesia,regional
+Cook Islands Māori,Cook Islands,official
+Futunan,Wallis and Futuna,official
+Hawaiian,Hawaii,official
+Māori,New Zealand,official
+Niuean,Cook Islands,minority
+Niuean,Niue,official
+Niuean,New Zealand,minority
+Niuean,Tonga,minority
+Rapa Nui,Easter Island,official
+Samoan,American Samoa,official
+Samoan,Samoa,official
+Tahitan,French Polynesia,official
+Tokelauan,Tokelau,official
+Tongan,Tonga,official
+Tuvaluan,Tuvalu,official
+Wallisian,Wallis and Futuna,official
+Acehnese,Indonesia,minority
+Balinese,Indonesia,minority
+Banjarese,Indonesia,minority
+Cham,Cambodia,minority
+Cham,Vietnam,minority
+Cham,Malaysia,minority
+Indonesian,Indonesia,official
+Indonesian,East Timor,official
+Indonesian,Malaysia,minority
+Indonesian,Brunei,minority
+Indonesian,Singapore,minority
+Indonesian,Taiwan,de facto
+Indonesian,Thailand,minority
+Indonesian,Philippines,minority
+Jarai,Vietnam,minority
+Jarai,Cambodia,minority
+Javanese,Indonesia,regional
+Javanese,Malaysia,minority
+Javanese,Suriname,minority
+Lampung,Indonesia,minority
+Madurese,Indonesia,minority
+Makassarese,Indonesia,minority
+Malay,Malaysia,official
+Malay,Brunei,official
+Malay,Singapore,official
+Malay,Indonesia,regional
+Malay,Philippines,minority
+Malay,Taiwan,minority
+Malay,Thailand,minority
+Minangkabau,Indonesia,regional
+Minangkabau,Malaysia,regional
+Minangkabau,Singapore,minority
+Palauan,Palau,official
+Rejang,Indonesia,minority
+Sasak,Indonesia,minority
+Tetum,East Timor,official
+Evenki,Russia,minority
+Evenki,China,minority
+Evenki,Mongolia,minority
+Nanai (Hezhen),Russia,minority
+Nanai (Hezhen),China,minority
+Manchu,China,regional
+Estonian,Estonia,official
+Estonian,Finland,minority
+Estonian,Russia,minority
+Finnish,Finland,official
+Finnish,Estonia,minority
+Finnish,Norway,minority
+Finnish,Russia,minority
+Finnish,Sweden,minority
+Hungarian,Hungary,official
+Hungarian,Serbia,minority
+Hungarian,Romania,minority
+Hungarian,Slovakia,minority
+Hungarian,Austria,minority
+Hungarian,Ukraine,minority
+Sami,Finland,regional
+Sami,Norway,official
+Sami,Russia,minority
+Sami,Sweden,regional
+Navajo,United States,minority
+Apache,United States,minority
+Chiricahua,United States,minority
+Jicarilla,United States,minority
+Lipan Apache,United States,minority
+Plains Apache,United States,minority
+Mescalero,United States,minority
+Western Apache,United States,minority
+Cherokee,United States,regional
+Erie (Language),United States,minority
+Hopi,United States,regional
+Tübatulabal,United States,minority
+Tongva,United States,minority
+Numic,United States,minority
+Bahnar,Vietnam,minority
+Bru,Laos,minority
+Bru,Vietnam,minority
+Bru,Thailand,minority
+Khasi,India,regional
+Khasi,Bangladesh,minority
+Khmer,Cambodia,official
+Khmer,Vietnam,minority
+Khmer,Thailand,minority
+Khmu,Laos,minority
+Khmu,Vietnam,minority
+Khmu,Thailand,minority
+Khmu,China,minority
+Kuy,Thailand,minority
+Kuy,Cambodia,minority
+Kuy,Laos,minority
+Mnong,Vietnam,minority
+Mnong,Cambodia,minority
+Mon,Myanmar,regional
+Mon,Thailand,minority
+Muong,Vietnam,regional
+Vietnamese,Vietnam,official
+Vietnamese,Czech Republic,minority
+Vietnamese,United States,minority
+Vietnamese,Australia,minority
+Vietnamese,Cambodia,minority
+Vietnamese,Canada,minority
+Vietnamese,France,minority
+Vietnamese,Laos,minority
+Wa,Myanmar,regional
+Wa,China,regional
+Bouyei,China,regional
+Bouyei,Vietnam,minority
+Lao,Laos,official
+Lao,Thailand,minority
+Thai,Thailand,official
+Thai,China,minority
+Thai,Myanmar,minority
+Thai,Vietnam,minority
+Shan,Myanmar,regional
+Shan,Thailand,regional
+Nung,Vietnam,regional
+Tày,Vietnam,regional
+Zhuang,China,regional
+"Hmong
+(Miao)",China,minority
+"Hmong
+(Miao)",Vietnam,minority
+"Hmong
+(Miao)",Laos,minority
+"Hmong
+(Miao)",Thailand,minority
+"Hmong
+(Miao)",United States,minority
+"Hmong
+(Miao)",Australia,minority
+"Hmong
+(Miao)",France,minority
+"Mienic
+(Yao)",China,minority
+"Mienic
+(Yao)",Vietnam,minority
+"Mienic
+(Yao)",Laos,minority
+"Mienic
+(Yao)",Thailand,minority
+Yolŋu,Australia,minority
+Gurindji,Australia,minority
+Ngaanyatjarra,Australia,minority
+Kartu,Australia,minority
+Karnic,Australia,minority
+Yotayotic,Australia,minority
+Yuin–Kuric,Australia,minority
+Warlpiri,Australia,minority
+Kalaw Lagaw Ya,Australia,minority
+Warrongo,Australia,minority
