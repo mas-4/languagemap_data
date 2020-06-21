@@ -24,6 +24,8 @@
 22,Armenian,Syria,minority,SY
 23,Armenian,Turkey,minority,TR
 24,Armenian,Ukraine,minority,UA
+25,Latgalian,Latvia,regional,LV
+26,Latgalian,Russia,regional,RU
 27,Latvian,Latvia,official,LV
 28,Lithuanian,Latvia,minority,LV
 29,Lithuanian,Lithuania,official,LT
@@ -36,6 +38,7 @@
 36,Irish,Canada,minority,CA
 37,Irish,Australia,minority,AU
 38,Irish,New Zealand,minority,NZ
+39,Manx,Isle of Man,minority,IM
 40,Scottish Gaelic,Canada,minority,CA
 41,Scottish Gaelic,United Kingdom,regional,GB
 42,Scottish Gaelic,United States,minority,US
@@ -58,9 +61,16 @@
 59,Danish,Greenland,minority,GL
 60,Danish,Iceland,minority,IS
 61,Faroese,Faroe Islands,official,FO
-62,Faroese,Denmark,minority,DK
+62,Faroese,Denmark,unofficial,DK
+63,Frisian,Denmark,minority,DK
+64,Frisian,Germany,minority,DE
+65,Frisian,Netherlands,minority,NL
 66,Icelandic,Iceland,official,IS
 67,Icelandic,Denmark,minority,DK
+68,"Low German
+(Low Saxon)",Germany,regional,DE
+69,"Low German
+(Low Saxon)",Netherlands,regional,NL
 70,Luxembourgish,Luxembourg,official,LU
 71,Luxembourgish,Belgium,minority,BE
 72,Luxembourgish,Germany,minority,DE
@@ -108,7 +118,7 @@
 114,English,Uganda,official,UG
 115,English,Zambia,official,ZM
 116,English,Zimbabwe,official,ZW
-117,English,Bahrain,minority,BH
+117,English,Bahrain,unofficial,BH
 118,English,India,official,IN
 119,English,Lebanon,minority,LB
 120,English,Pakistan,official,PK
@@ -219,6 +229,12 @@
 225,Greek,Syria,minority,SY
 226,Greek,United States,minority,US
 227,Greek,Australia,minority,AU
+228,Balochi,Afghanistan,minority,AF
+229,Balochi,Bahrain,minority,BH
+230,Balochi,Iran,regional,IR
+231,Balochi,Oman,minority,OM
+232,Balochi,Pakistan,regional,PK
+233,Balochi,United Arab Emirates,minority,AE
 234,Persian,Afghanistan,official,AF
 235,Persian,Bahrain,minority,BH
 236,Persian,Germany,minority,DE
@@ -233,6 +249,11 @@
 245,Persian,United Arab Emirates,minority,AE
 246,Persian,United States,minority,US
 247,Persian,Uzbekistan,minority,UZ
+248,Ossetic,Russia,regional,RU
+249,Ossetic,South Ossetia,majority,GE
+250,Ossetic,Georgia,minority,GE
+251,Caucasian Tat,Russia,regional,RU
+252,Caucasian Tat,Azerbaijan,minority,AZ
 253,Tajik,Kazakhstan,minority,KZ
 254,Tajik,Kyrgyzstan,minority,KG
 255,Tajik,Pakistan,minority,PK
@@ -243,6 +264,9 @@
 260,Kurdish,Iraq,official,IQ
 261,Kurdish,Syria,minority,SY
 262,Kurdish,Turkey,minority,TR
+263,Gilan,Iran,regional,IR
+264,Talysh,Azerbaijan,minority,AZ
+265,Talysh,Iran,minority,IR
 266,Pashto,Afghanistan,official,AF
 267,Pashto,Pakistan,regional,PK
 268,Pashto,United Arab Emirates,minority,AE
@@ -375,6 +399,136 @@
 395,Gujarati,Australia,minority,AU
 396,Angika,India,regional,IN
 397,Angika,Nepal,regional,NP
+398,Assamese,Bhutan,minority,BT
+399,Assamese,India,official,IN
+400,Assamese,United Kingdom,minority,GB
+401,Assamese,United States,minority,US
+402,Awadhi,Bhutan,minority,BT
+403,Awadhi,Guyana,minority,GY
+404,Awadhi,Fiji,minority,FJ
+405,Awadhi,India,regional,IN
+406,Awadhi,Nepal,minority,NP
+407,Awadhi,Trinidad and Tobago,minority,TT
+408,Awadhi,South Africa,minority,ZA
+409,Awadhi,Suriname,minority,SR
+410,Awadhi,United States,minority,US
+411,Bhili,India,minority,IN
+412,Bhojpuri,Fiji,minority,FJ
+413,Bhojpuri,Guyana,minority,GY
+414,Bhojpuri,India,regional,IN
+415,Bhojpuri,Mauritius,minority,MU
+416,Bhojpuri,Nepal,minority,NP
+417,Bhojpuri,United Kingdom,minority,GB
+418,Bhojpuri,United States,minority,US
+419,Bhojpuri,Suriname,minority,SR
+420,Bhojpuri,Trinidad and Tobago,minority,TT
+421,Bhojpuri,Seychelles,minority,SC
+422,Bhojpuri,South Africa,minority,ZA
+423,Bhojpuri,Australia,minority,AU
+424,Bishnupriya Manipuri,Bangladesh,minority,BD
+425,Bishnupriya Manipuri,India,regional,IN
+426,Bishnupriya Manipuri,Myanmar,minority,MM
+427,Chakma,Bangladesh,minority,BD
+428,Chakma,India,minority,IN
+429,Chhattisgarhi,India,minority,IN
+430,Chittagonian,Bangladesh,minority,BD
+431,Chittagonian,Myanmar,minority,MM
+432,Chittagonian,Oman,minority,OM
+433,Chittagonian,Saudi Arabia,minority,SA
+434,Chittagonian,United Arab Emirates,minority,AE
+435,Chittagonian,Qatar,minority,QA
+436,Chittagonian,Kuwait,minority,KW
+437,Chittagonian,Pakistan,minority,PK
+438,Chittagonian,United Kingdom,minority,GB
+439,Chittagonian,United States,minority,US
+440,Dhivehi,India,regional,IN
+441,Dhivehi,Maldives,official,MV
+442,Dogri,Pakistan,regional,PK
+443,Dogri,India,regional,IN
+444,Hajong,India,minority,IN
+445,Hajong,Bangladesh,minority,BD
+446,Halbi,India,regional,IN
+447,Kalasha-ala,Afghanistan,minority,AF
+448,Kalasha-mun,Pakistan,minority,PK
+449,Kashmiri,India,official,IN
+450,Kashmiri,Pakistan,regional,PK
+451,Kashmiri,United Kingdom,minority,GB
+452,Khandeshi,India,regional,IN
+453,Khowar,Pakistan,regional,PK
+454,Kumaoni(Doteli),India,regional,IN
+455,Kumaoni(Doteli),Nepal,regional,NP
+456,Lomavren,Armenia,minority,AM
+457,Lomavren,Azerbaijan,minority,AZ
+458,Lomavren,Bulgaria,minority,BG
+459,Lomavren,Georgia,minority,GE
+460,Lomavren,Iran,minority,IR
+461,Lomavren,Russia,minority,RU
+462,Lomavren,Syria,minority,SY
+463,Magadhi,India,regional,IN
+464,Maithili,India,regional,IN
+465,Maithili,Nepal,regional,NP
+466,Mal Paharia,India,minority,IN
+467,Mal Paharia,Bangladesh,minority,BD
+468,Marathi,India,official,IN
+469,Marathi,Pakistan,minority,PK
+470,Marathi,Israel,minority,IL
+471,Marathi,Mauritius,minority,MU
+472,Marathi,Singapore,minority,SG
+473,Marathi,United States,minority,US
+474,Marathi,United Kingdom,minority,GB
+475,Marathi,Australia,minority,AU
+476,Marathi,New Zealand,minority,NZ
+477,Marathi,South Africa,minority,ZA
+478,Marathi,United Arab Emirates,minority,AE
+479,Marathi,Bahrain,minority,BH
+480,Marwari,India,regional,IN
+481,Marwari,Pakistan,minority,PK
+482,Nepali,Bhutan,unofficial,BT
+483,Nepali,Hong Kong,unofficial,HK
+484,Nepali,India,regional,IN
+485,Nepali,Myanmar,unofficial,MM
+486,Nepali,Nepal,official,NP
+487,Nepali,United Kingdom,unofficial,GB
+488,Oriya,Bangladesh,minority,BD
+489,Oriya,India,regional,IN
+490,Punjabi,India,regional,IN
+491,Punjabi,Pakistan,regional,PK
+492,Punjabi,United Kingdom,minority,GB
+493,Punjabi,Canada,minority,CA
+494,Punjabi,United States,minority,US
+495,Rajasthani,India,regional,IN
+496,Rajasthani,Pakistan,minority,PK
+497,Rajbanshi,India,minority,IN
+498,Rajbanshi,Bangladesh,minority,BD
+499,Rajbanshi,Nepal,minority,NP
+500,Rohingya,Bangladesh,minority,BD
+501,Rohingya,India,minority,IN
+502,Rohingya,Malaysia,minority,MY
+503,Rohingya,Myanmar,minority,MM
+504,Rohingya,Oman,minority,OM
+505,Rohingya,Pakistan,minority,PK
+506,Rohingya,Saudi Arabia,minority,SA
+507,Rohingya,Thailand,minority,TH
+508,Rohingya,United Arab Emirates,minority,AE
+509,Sindhi,Hong Kong,minority,HK
+510,Sindhi,India,official,IN
+511,Sindhi,Oman,minority,OM
+512,Sindhi,Pakistan,regional,PK
+513,Sindhi,Philippines,minority,PH
+514,Sindhi,Singapore,minority,SG
+515,Sindhi,United Arab Emirates,minority,AE
+516,Sindhi,United Kingdom,minority,GB
+517,Sindhi,United States,minority,US
+518,Sinhala,Sri Lanka,official,LK
+519,Sylheti,Bangladesh,regional,BD
+520,Sylheti,India,regional,IN
+521,Sylheti,Taiwan,minority,TW
+522,Sylheti,United Kingdom,minority,GB
+523,Sylheti,United States,minority,US
+524,Sylheti,United Arab Emirates,minority,AE
+525,Tanchangya,Bangladesh,regional,BD
+526,Tanchangya,India,regional,IN
+527,Tanchangya,Myanmar,regional,MM
 528,Urdu,Bahrain,minority,BH
 529,Urdu,Bangladesh,minority,BD
 530,Urdu,Fiji,official,FJ
@@ -559,8 +713,8 @@
 709,Galician,Switzerland,minority,CH
 710,Galician,Uruguay,minority,UY
 711,Galician,Venezuela,minority,VE
-712,Jèrriais,Jersey,official,JE
-713,Jèrriais,Sark,official,GG
+712,Jèrriais,Jersey,unofficial,JE
+713,Jèrriais,Sark,unofficial,GG
 714,Latin,Vatican City,official,VA
 715,Mirandese,Portugal,official,PT
 716,Occitan,France,minority,FR
@@ -603,6 +757,7 @@
 753,Czech,Czech Republic,official,CZ
 754,Czech,Germany,minority,DE
 755,Czech,Slovakia,minority,SK
+756,Kashubian,Poland,regional,PL
 757,Macedonian,Albania,regional,AL
 758,Macedonian,Macedonia,official,MK
 759,Macedonian,Greece,minority,GR
@@ -654,6 +809,12 @@
 805,Russian,Turkmenistan,minority,TM
 806,Russian,Ukraine,regional,UA
 807,Russian,Uzbekistan,minority,UZ
+808,Rusyn,Hungary,minority,HU
+809,Rusyn,Poland,minority,PL
+810,Rusyn,Romania,minority,RO
+811,Rusyn,Slovakia,minority,SK
+812,Rusyn,Ukraine,regional,UA
+813,Rusyn,Serbia,regional,RS
 814,Serbian,Bosnia and Herzegovina,official,BA
 815,Serbian,Croatia,minority,HR
 816,Serbian,Kosovo,official,XK
@@ -669,6 +830,8 @@
 826,Slovene,Italy,regional,IT
 827,Slovene,Slovenia,official,SI
 828,Slovene,United States,minority,US
+829,"Sorbian, Lower",Germany,regional,DE
+830,"Sorbian, Upper",Germany,regional,DE
 831,Ukrainian,Argentina,minority,AR
 832,Ukrainian,Belarus,minority,BY
 833,Ukrainian,Brazil,minority,BR
@@ -688,6 +851,8 @@
 847,Ukrainian,Uzbekistan,minority,UZ
 848,Mongolian,Mongolia,official,MN
 849,Mongolian,China,regional,CN
+850,Kalmyk Oirat,Russia,regional,RU
+851,Daur,China,regional,CN
 852,Azerbaijani,Azerbaijan,official,AZ
 853,Azerbaijani,Iran,official,IR
 854,Azerbaijani,Iraq,minority,IQ
@@ -750,9 +915,21 @@
 911,Turkish,Ireland,minority,IE
 912,Turkish,Norway,minority,NO
 913,Turkmen,Turkmenistan,official,TM
+914,Turkmen,Iraq,regional,IQ
+915,Turkmen,Iran,minority,IR
+916,Turkmen,Afghanistan,minority,AF
+917,Turkmen,Russia,regional,RU
+918,Turkmen,Turkey,minority,TR
+919,Gagauz,Găgăuzia,regional,MD
+920,Gagauz,Moldova,minority,MD
+921,Gagauz,Ukraine,minority,UA
 922,Tatar,Tatarstan,official,RU
 923,Tatar,Russia,minority,RU
 924,Tatar,Turkey,minority,TR
+925,Crimean Tatar,Ukraine,minority,UA
+926,Crimean Tatar,Romania,minority,RO
+927,Crimean Tatar,Turkey,minority,TR
+928,Siberian Tatar,Russia,regional,RU
 929,Arabic,Algeria,official,DZ
 930,Arabic,Comoros,official,KM
 931,Arabic,Chad,official,TD
@@ -811,6 +988,25 @@
 984,Brahui,Iran,minority,IR
 985,Brahui,Afghanistan,minority,AF
 986,Brahui,Turkmenistan,minority,TM
+987,Chenchu,India,minority,IN
+988,Duruwa,India,minority,IN
+989,Gondi,India,minority,IN
+990,Kannada,India,regional,IN
+991,Kannada,United States,minority,US
+992,Kolami,India,minority,IN
+993,Koraga,India,minority,IN
+994,Kota,India,minority,IN
+995,Koya,India,minority,IN
+996,Kui,India,minority,IN
+997,Kumarbhag Paharia,India,minority,IN
+998,Kurukh,Bangladesh,minority,BD
+999,Kurukh,India,minority,IN
+1000,Maria,India,minority,IN
+1001,Nagarchal,India,minority,IN
+1002,Pardhan,India,minority,IN
+1003,Sauria Paharia,India,minority,IN
+1004,Sauria Paharia,Bangladesh,minority,BD
+1005,Toda,India,minority,IN
 1006,Telugu,India,regional,IN
 1007,Telugu,Mauritius,minority,MU
 1008,Telugu,Denmark,minority,DK
@@ -870,6 +1066,16 @@
 1062,Malayalam,Singapore,minority,SG
 1063,Malayalam,United Kingdom,minority,GB
 1064,Malayalam,United States,minority,US
+1065,Tulu,Bahrain,minority,BH
+1066,Tulu,India,minority,IN
+1067,Tulu,Kuwait,minority,KW
+1068,Tulu,Oman,minority,OM
+1069,Tulu,Qatar,minority,QA
+1070,Tulu,Saudi Arabia,minority,SA
+1071,Tulu,United Arab Emirates,minority,AE
+1072,Tulu,United States,minority,US
+1073,Kodava,India,minority,IN
+1074,Ollari,India,minority,IN
 1075,Japanese,Japan,official,JP
 1076,Japanese,Philippines,minority,PH
 1077,Japanese,France,minority,FR
@@ -878,6 +1084,9 @@
 1080,Japanese,United States,minority,US
 1081,Japanese,Palau,regional,PW
 1082,Japanese,Taiwan,minority,TW
+1083,Ryukyuan,Brazil,minority,BR
+1084,Ryukyuan,Japan,minority,JP
+1085,Ryukyuan,Taiwan,minority,TW
 1086,Korean,Australia,minority,AU
 1087,Korean,Brazil,minority,BR
 1088,Korean,Canada,minority,CA
@@ -888,16 +1097,20 @@
 1093,Korean,South Korea,official,KR
 1094,Korean,Taiwan,minority,TW
 1095,Korean,United States,minority,US
+1096,Jeju,South Korea,regional,KR
 1097,Basque,France,regional,FR
 1098,Basque,Spain,official,ES
 1099,Basque,Venezuela,minority,VE
+1100,Nihali,India,minority,IN
 1101,Georgian,Georgia,official,GE
 1102,Georgian,Turkey,minority,TR
 1103,Georgian,Iran,minority,IR
 1104,Georgian,Azerbaijan,minority,AZ
 1105,Mingrelian,Georgia,significant language,GE
 1106,Mingrelian,Abkhazia,significant language,GE
+1107,Svan,Georgia,minority,GE
 1108,Laz,Turkey,significant language,TR
+1109,Laz,Georgia,minority,GE
 1110,Burmese,Myanmar,official,MM
 1111,Burmese,Malaysia,minority,MY
 1112,Burmese,Singapore,minority,SG
@@ -906,6 +1119,22 @@
 1115,Tibetan,China,regional,CN
 1116,Tibetan,Nepal,regional,NP
 1117,Tibetan,India,minority,IN
+1118,Hani,China,regional,CN
+1119,Hani,Vietnam,regional,VN
+1120,Hani,Laos,minority,LA
+1121,Karen,Australia,minority,AU
+1122,Karen,Myanmar,minority,MM
+1123,Karen,Thailand,minority,TH
+1124,Karen,United States,minority,US
+1125,Lahu,China,regional,CN
+1126,Lahu,Laos,minority,LA
+1127,Lahu,Myanmar,minority,MM
+1128,Lahu,Thailand,minority,TH
+1129,Lahu,United States,minority,US
+1130,Lahu,Vietnam,minority,VN
+1131,Meithei,India,regional,IN
+1132,"Nuosu (Yi, Lolo)",China,regional,CN
+1133,"Nuosu (Yi, Lolo)",Vietnam,minority,VN
 1134,Cantonese,Angola,minority,AO
 1135,Cantonese,Cape Verde,minority,CV
 1136,Cantonese,Mauritius,minority,MU
@@ -959,6 +1188,22 @@
 1184,Cantonese,Peru,minority,PE
 1185,Cantonese,Suriname,minority,SR
 1186,Cantonese,Venezuela,minority,VE
+1187,Taishanese,South Africa,minority,ZA
+1188,Taishanese,China,regional,CN
+1189,Taishanese,Indonesia,minority,ID
+1190,Taishanese,Malaysia,minority,MY
+1191,Taishanese,Philippines,minority,PH
+1192,Taishanese,Singapore,minority,SG
+1193,Taishanese,Thailand,minority,TH
+1194,Taishanese,Vietnam,minority,VN
+1195,Taishanese,United Kingdom,minority,GB
+1196,Taishanese,Canada,minority,CA
+1197,Taishanese,United States,minority,US
+1198,Taishanese,Australia,minority,AU
+1199,Taishanese,New Zealand,minority,NZ
+1200,Taishanese,Brazil,minority,BR
+1201,Taishanese,Peru,minority,PE
+1202,Taishanese,Venezuela,minority,VE
 1203,Hakka,Angola,minority,AO
 1204,Hakka,Cape Verde,minority,CV
 1205,Hakka,Mauritius,minority,MU
@@ -1127,7 +1372,55 @@
 1368,Wu,United States,minority,US
 1369,Wu,Canada,minority,CA
 1370,Xiang,China,regional,CN
+1371,Bajau,Indonesia,minority,ID
+1372,Bajau,Malaysia,minority,MY
+1373,Bajau,Philippines,minority,PH
+1374,Brunei Malay,Brunei,regional,BN
+1375,Brunei Malay,Malaysia,minority,MY
+1376,Coastal Kadazan,Malaysia,minority,MY
+1377,Iban,Malaysia,regional,MY
+1378,Iban,Brunei,minority,BN
+1379,Iban,Indonesia,minority,ID
+1380,Malagasy,Comoros,minority,KM
 1381,Malagasy,Madagascar,official,MG
+1382,Malagasy,Mayotte,minority,YT
+1383,Sama,Indonesia,minority,ID
+1384,Sama,Malaysia,minority,MY
+1385,Sama,Philippines,minority,PH
+1386,Yakan,Philippines,regional,PH
+1387,Aklanon,Philippines,regional,PH
+1388,Bantik,Indonesia,minority,ID
+1389,Bikol,Philippines,regional,PH
+1390,Bolinao,Philippines,regional,PH
+1391,Cebuano,Philippines,regional,PH
+1392,Cebuano,Saudi Arabia,minority,SA
+1393,Cebuano,United States,minority,US
+1394,Cuyonon,Philippines,minority,PH
+1395,Hiligaynon,Philippines,regional,PH
+1396,Hiligaynon,United States,minority,US
+1397,Ibanag,Philippines,regional,PH
+1398,Ifugao,Philippines,minority,PH
+1399,Ilocano,Philippines,regional,PH
+1400,Ilocano,United States,minority,US
+1401,Iranun,Malaysia,minority,MY
+1402,Iranun,Philippines,regional,PH
+1403,Ivatan,Philippines,minority,PH
+1404,Kalinga,Philippines,minority,PH
+1405,Kamayo,Philippines,minority,PH
+1406,Kankana-ey,Philippines,minority,PH
+1407,Kapampangan,Philippines,regional,PH
+1408,Kinaray-a,Philippines,minority,PH
+1409,Maguindanao,Philippines,regional,PH
+1410,Maranao,Malaysia,minority,MY
+1411,Maranao,Philippines,regional,PH
+1412,Maranao,Saudi Arabia,minority,SA
+1413,Maranao,United States,minority,US
+1414,Masbatenyo,Philippines,minority,PH
+1415,Pangasinan,Philippines,regional,PH
+1416,Romblomanon,Philippines,minority,PH
+1417,Sangirese,Indonesia,minority,ID
+1418,Sangirese,Philippines,minority,PH
+1419,Surigaonon,Philippines,regional,PH
 1420,Tagalog,Australia,minority,AU
 1421,Tagalog,Brunei,minority,BN
 1422,Tagalog,Canada,minority,CA
@@ -1152,16 +1445,43 @@
 1441,Tagalog,United Arab Emirates,minority,AE
 1442,Tagalog,United Kingdom,minority,GB
 1443,Tagalog,United States,minority,US
+1444,Tao,Taiwan,minority,TW
+1445,Talaud,Indonesia,minority,ID
+1446,Tausug,Brunei,minority,BN
+1447,Tausug,Indonesia,minority,ID
+1448,Tausug,Malaysia,minority,MY
+1449,Tausug,Philippines,regional,PH
+1450,Tondano,Indonesia,minority,ID
+1451,Tonsawang,Indonesia,minority,ID
+1452,Tonsea,Indonesia,minority,ID
+1453,Waray,Philippines,regional,PH
+1454,Zambal,Philippines,regional,PH
 1455,Fijian,Fiji,official,FJ
 1456,Carolinian,Northern Mariana Islands,official,MP
+1457,Carolinian,Guam,minority,GU
+1458,Chuukese,FS. Micronesia,regional,FM
+1459,Gilbertese,Fiji,minority,FJ
 1460,Gilbertese,Kiribati,official,KI
+1461,Gilbertese,Nauru,minority,NR
+1462,Gilbertese,Solomon Islands,minority,SB
+1463,Gilbertese,Tuvalu,minority,TV
+1464,Gilbertese,Vanuatu,minority,VU
+1465,Kosraean,FS. Micronesia,regional,FM
 1466,Marshallese,Marshall Islands,official,MH
 1467,Nauruan,Nauru,official,NR
+1468,Pohnpeian,FS. Micronesia,regional,FM
+1469,Sosorolese,Palau,regional,PW
+1470,Tobian,Palau,regional,PW
+1471,Ulithian,FS. Micronesia,regional,FM
+1472,Yapese,FS. Micronesia,regional,FM
 1473,Cook Islands Māori,Cook Islands,official,CK
 1474,Futunan,Wallis and Futuna,official,WF
 1475,Hawaiian,Hawaii,official,US
 1476,Māori,New Zealand,official,NZ
+1477,Niuean,Cook Islands,minority,CK
 1478,Niuean,Niue,official,NU
+1479,Niuean,New Zealand,minority,NZ
+1480,Niuean,Tonga,minority,TO
 1481,Rapa Nui,Easter Island,official,CL
 1482,Samoan,American Samoa,official,AS
 1483,Samoan,Samoa,official,WS
@@ -1170,6 +1490,12 @@
 1486,Tongan,Tonga,official,TO
 1487,Tuvaluan,Tuvalu,official,TV
 1488,Wallisian,Wallis and Futuna,official,WF
+1489,Acehnese,Indonesia,minority,ID
+1490,Balinese,Indonesia,minority,ID
+1491,Banjarese,Indonesia,minority,ID
+1492,Cham,Cambodia,minority,KH
+1493,Cham,Vietnam,minority,VN
+1494,Cham,Malaysia,minority,MY
 1495,Indonesian,Indonesia,official,ID
 1496,Indonesian,East Timor,official,TL
 1497,Indonesian,Malaysia,minority,MY
@@ -1178,14 +1504,34 @@
 1500,Indonesian,Taiwan,de facto,TW
 1501,Indonesian,Thailand,minority,TH
 1502,Indonesian,Philippines,minority,PH
+1503,Jarai,Vietnam,minority,VN
+1504,Jarai,Cambodia,minority,KH
 1505,Javanese,Indonesia,regional,ID
 1506,Javanese,Malaysia,minority,MY
 1507,Javanese,Suriname,minority,SR
+1508,Lampung,Indonesia,minority,ID
+1509,Madurese,Indonesia,minority,ID
+1510,Makassarese,Indonesia,minority,ID
 1511,Malay,Malaysia,official,MY
 1512,Malay,Brunei,official,BN
 1513,Malay,Singapore,official,SG
+1514,Malay,Indonesia,regional,ID
+1515,Malay,Philippines,minority,PH
+1516,Malay,Taiwan,minority,TW
+1517,Malay,Thailand,minority,TH
+1518,Minangkabau,Indonesia,regional,ID
+1519,Minangkabau,Malaysia,regional,MY
+1520,Minangkabau,Singapore,minority,SG
 1521,Palauan,Palau,official,PW
+1522,Rejang,Indonesia,minority,ID
+1523,Sasak,Indonesia,minority,ID
 1524,Tetum,East Timor,official,TL
+1525,Evenki,Russia,minority,RU
+1526,Evenki,China,minority,CN
+1527,Evenki,Mongolia,minority,MN
+1528,Nanai (Hezhen),Russia,minority,RU
+1529,Nanai (Hezhen),China,minority,CN
+1530,Manchu,China,regional,CN
 1531,Estonian,Estonia,official,EE
 1532,Estonian,Finland,minority,FI
 1533,Estonian,Russia,minority,RU
@@ -1218,9 +1564,27 @@
 1560,Tübatulabal,United States,minority,US
 1561,Tongva,United States,minority,US
 1562,Numic,United States,minority,US
+1563,Bahnar,Vietnam,minority,VN
+1564,Bru,Laos,minority,LA
+1565,Bru,Vietnam,minority,VN
+1566,Bru,Thailand,minority,TH
+1567,Khasi,India,regional,IN
+1568,Khasi,Bangladesh,minority,BD
 1569,Khmer,Cambodia,official,KH
 1570,Khmer,Vietnam,minority,VN
 1571,Khmer,Thailand,minority,TH
+1572,Khmu,Laos,minority,LA
+1573,Khmu,Vietnam,minority,VN
+1574,Khmu,Thailand,minority,TH
+1575,Khmu,China,minority,CN
+1576,Kuy,Thailand,minority,TH
+1577,Kuy,Cambodia,minority,KH
+1578,Kuy,Laos,minority,LA
+1579,Mnong,Vietnam,minority,VN
+1580,Mnong,Cambodia,minority,KH
+1581,Mon,Myanmar,regional,MM
+1582,Mon,Thailand,minority,TH
+1583,Muong,Vietnam,regional,VN
 1584,Vietnamese,Vietnam,official,VN
 1585,Vietnamese,Czech Republic,minority,CZ
 1586,Vietnamese,United States,minority,US
@@ -1229,9 +1593,50 @@
 1589,Vietnamese,Canada,minority,CA
 1590,Vietnamese,France,minority,FR
 1591,Vietnamese,Laos,minority,LA
+1592,Wa,Myanmar,regional,MM
+1593,Wa,China,regional,CN
+1594,Bouyei,China,regional,CN
+1595,Bouyei,Vietnam,minority,VN
 1596,Lao,Laos,official,LA
 1597,Lao,Thailand,minority,TH
 1598,Thai,Thailand,official,TH
 1599,Thai,China,minority,CN
 1600,Thai,Myanmar,minority,MM
 1601,Thai,Vietnam,minority,VN
+1602,Shan,Myanmar,regional,MM
+1603,Shan,Thailand,regional,TH
+1604,Nung,Vietnam,regional,VN
+1605,Tày,Vietnam,regional,VN
+1606,Zhuang,China,regional,CN
+1607,"Hmong
+(Miao)",China,minority,CN
+1608,"Hmong
+(Miao)",Vietnam,minority,VN
+1609,"Hmong
+(Miao)",Laos,minority,LA
+1610,"Hmong
+(Miao)",Thailand,minority,TH
+1611,"Hmong
+(Miao)",United States,minority,US
+1612,"Hmong
+(Miao)",Australia,minority,AU
+1613,"Hmong
+(Miao)",France,minority,FR
+1614,"Mienic
+(Yao)",China,minority,CN
+1615,"Mienic
+(Yao)",Vietnam,minority,VN
+1616,"Mienic
+(Yao)",Laos,minority,LA
+1617,"Mienic
+(Yao)",Thailand,minority,TH
+1618,Yolŋu,Australia,minority,AU
+1619,Gurindji,Australia,minority,AU
+1620,Ngaanyatjarra,Australia,minority,AU
+1621,Kartu,Australia,minority,AU
+1622,Karnic,Australia,minority,AU
+1623,Yotayotic,Australia,minority,AU
+1624,Yuin–Kuric,Australia,minority,AU
+1625,Warlpiri,Australia,minority,AU
+1626,Kalaw Lagaw Ya,Australia,minority,AU
+1627,Warrongo,Australia,minority,AU
