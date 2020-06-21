@@ -25,5 +25,6 @@ for row in rawdata:
     if code not in languages[status][language]:
         languages[status][language].append(code)
 
-with open('languages.json', 'wt') as fout:
-    json.dump(languages, fout)
+with open('languages.js', 'wt') as fout:
+    s = json.dumps(languages)
+    fout.write('export const languages = ' + s)
