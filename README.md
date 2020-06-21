@@ -37,14 +37,15 @@ already are. In fact, I would like to reduce the number. I understand that
 languages are complex, but this project isn't meant to be a definitive resource,
 it's just to give people a sense of how much of the world they can visit and
 know the language in. Plus, I really don't know what the hell a naked
-`unofficial` is. In general, that Wikipedia page is horribly sourced and
-designed and if we can contribute back to it by renormalizing into a single
-table it would be incredible, I'm just not sure if it would be welcome.
+`unofficial` is, so I changed it based on what I guessed from Wikipedia. In
+general, that Wikipedia page is horribly sourced and designed and if we can
+contribute back to it by renormalizing into a single table it would be
+incredible, I'm just not sure if it would be welcome.
 
 ## Current Statuses
 The current statuses are listed below. I specifically would like to get rid of
-`significant language` and `unofficial`. They are the least clear. `Historical
-language` also seems silly.
+`significant language`. It is the least clear. `Historical language` also
+seems silly.
 
 Below are what I assume are the definitions for the various status codes.
 
@@ -60,7 +61,6 @@ Below are what I assume are the definitions for the various status codes.
   that region, or by a majority.
 - `religious`: a religion mostly used for religious services.
 - `significant language`: I have no idea.
-- `unofficial`: I have no idea.
 
 ## How to Contribute
 The original status descriptions of the languages on the Wikipedia page are
@@ -69,6 +69,11 @@ status of a row or group of rows, please do so in languages_final.csv and
 explain the change in your commit/PR. The only sheet worth changing is that one
 because it's the one from which I build the json file for langmap.netlify.app.
 
+`languages_complete.csv` includes a good deal more languages than
+`languages_final.csv`, and also doesn't reflect all of the changes in
+`languages_final.csv`. That is because in it's current design too many languages
+results in a serious lag on the page. Future renditions should hopefully speed
+up the program and I will be able to include more of them.
 
 [0]: https://en.wikipedia.org/wiki/List_of_countries_by_spoken_languages
 [1]: https://github.com/burnash/gspread

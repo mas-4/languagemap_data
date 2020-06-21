@@ -58,7 +58,7 @@
 59,Danish,Greenland,minority,GL
 60,Danish,Iceland,minority,IS
 61,Faroese,Faroe Islands,official,FO
-62,Faroese,Denmark,unofficial,DK
+62,Faroese,Denmark,minority,DK
 66,Icelandic,Iceland,official,IS
 67,Icelandic,Denmark,minority,DK
 70,Luxembourgish,Luxembourg,official,LU
@@ -108,7 +108,7 @@
 114,English,Uganda,official,UG
 115,English,Zambia,official,ZM
 116,English,Zimbabwe,official,ZW
-117,English,Bahrain,unofficial,BH
+117,English,Bahrain,minority,BH
 118,English,India,official,IN
 119,English,Lebanon,minority,LB
 120,English,Pakistan,official,PK
@@ -559,8 +559,8 @@
 709,Galician,Switzerland,minority,CH
 710,Galician,Uruguay,minority,UY
 711,Galician,Venezuela,minority,VE
-712,Jèrriais,Jersey,unofficial,JE
-713,Jèrriais,Sark,unofficial,GG
+712,Jèrriais,Jersey,official,JE
+713,Jèrriais,Sark,official,GG
 714,Latin,Vatican City,official,VA
 715,Mirandese,Portugal,official,PT
 716,Occitan,France,minority,FR
