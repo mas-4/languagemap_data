@@ -1,10 +1,10 @@
 # Language Map Data Repository
 
-To see the program in action visit langmap.netlify.app
+To see the program in action visit [language-map.com](https://language-map.com)
 
 ## About
-This is the data for langmap.netlify.app. It is free for anyone to use or
-modify.
+This is the data for [language-map.com](https://language-map.com) It is free for
+anyone to use or modify.
 
 This data was scraped from the [List of countries by spoken languages][0] on
 Wikipedia. It was a horrifically badly formatted page, and I thus spent a good
@@ -16,7 +16,7 @@ of general rules of thumb I took as I went through the list.
 
 ## General Rules I Chose
 - co-official, official or minority in [place] = regional
-- spoken in <place> = regional
+- spoken in \<place\> = regional
 - co-official = official
 - de facto, unofficial = de facto
 - de facto, official = official
