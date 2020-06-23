@@ -27,8 +27,9 @@ of general rules of thumb I took as I went through the list.
 
 ## Apologia
 
-Mistakes were made. Get over it. You want it fixed? Do it yourself. This data is
-free to be cloned and adjusted.
+Mistakes were made. I'm sorry. Get over it.
+
+If you'd like to help correct it, submit a PR or an issue.
 
 ## Call to Action
 
